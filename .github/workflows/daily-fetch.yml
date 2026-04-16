@@ -1,0 +1,57 @@
+name: Daily Data Fetch
+
+on:
+  schedule:
+    # 每天 UTC 00:00 (北京时间 08:00) 运行
+    - cron: '0 0 * * *'
+    # 每周六 UTC 14:00 (北京时间 22:00) 跑 CFTC (周五数据发布后)
+    - cron: '0 14 * * 6'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  fetch-vc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests feedparser beautifulsoup4
+
+      - name: Fetch VC blogs
+        run: python scripts/fetch_vc.py
+
+      - name: Commit VC data
+        run: |
+          git config user.name "shrimp-bot"
+          git config user.email "bot@shrimp.dev"
+          git add data/vc/
+          git diff --staged --quiet || git commit -m "vc update $(date -u +%Y-%m-%d)"
+          git push
+
+  fetch-cftc:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 14 * * 6' || github.event_name == 'workflow_dispatch'
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pandas numpy requests yfinance
+
+      - name: Fetch CFTC data
+        run: python scripts/fetch_cftc.py
+
+      - name: Commit CFTC data
+        run: |
+          git config user.name "shrimp-bot"
+          git config user.email "bot@shrimp.dev"
+          git add data/cftc/
+          git diff --staged --quiet || git commit -m "cftc update $(date -u +%Y-%m-%d)"
+          git push
