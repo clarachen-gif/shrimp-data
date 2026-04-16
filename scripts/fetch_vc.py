@@ -164,8 +164,8 @@ def main():
                 output_lines.append(f"\n{a['content'][:2000]}")
             output_lines.append("")
 
-    # ── VC Blog Pages ──
-    output_lines.append("\n## VC Blog Pages (标题+链接)\n")
+    # ── VC Blog Pages (标题+链接+前3篇正文) ──
+    output_lines.append("\n## VC Blog Pages\n")
     for name, url in BLOG_PAGES.items():
         print(f"[WEB] {name}...")
         links = fetch_page_links(name, url)
@@ -173,12 +173,18 @@ def main():
         if not links:
             output_lines.append("_无法获取或无内容_\n")
             continue
-        for a in links[:8]:
+        for i, a in enumerate(links[:8]):
             output_lines.append(f"- [{a['title']}]({a['link']})")
+            # 前 3 篇尝试抓正文
+            if i < 3 and a.get('link', '').startswith('http'):
+                print(f"  [CONTENT] {a['title'][:40]}...")
+                content = fetch_article_content(a['link'])
+                if content:
+                    output_lines.append(f"\n> **摘要:** {content[:1500]}\n")
         output_lines.append("")
 
-    # ── Research Pages ──
-    output_lines.append("\n## Hedge Fund & Investment Bank Research (标题+链接)\n")
+    # ── Research Pages (标题+链接+前2篇正文) ──
+    output_lines.append("\n## Hedge Fund & Investment Bank Research\n")
     for name, url in RESEARCH_PAGES.items():
         print(f"[RESEARCH] {name}...")
         links = fetch_page_links(name, url)
@@ -186,8 +192,13 @@ def main():
         if not links:
             output_lines.append("_无法获取或无内容_\n")
             continue
-        for a in links[:8]:
+        for i, a in enumerate(links[:8]):
             output_lines.append(f"- [{a['title']}]({a['link']})")
+            if i < 2 and a.get('link', '').startswith('http'):
+                print(f"  [CONTENT] {a['title'][:40]}...")
+                content = fetch_article_content(a['link'])
+                if content:
+                    output_lines.append(f"\n> **摘要:** {content[:1500]}\n")
         output_lines.append("")
 
     # ── 写入文件 ──
