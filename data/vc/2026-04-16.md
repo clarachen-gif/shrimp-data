@@ -28,19 +28,125 @@ _今日无新文章_
 _今日无新文章_
 
 
-## VC Blog Pages (标题+链接)
+## VC Blog Pages
 
 ### a16z
 _无法获取或无内容_
 
 ### Greylock
 - [Marketplaces & Commerce](https://greylock.com/marketplace-and-commerce/)
+
+> **摘要:** Marketplaces & Commerce
+Backing the new wave of buying experiences.
+Overview
+Greylock has a long history of early-stage partnership with networks & marketplaces across consumer and b2b domains. As former growth and product practitioners, we've long been obsessed with building levers to establish network effects businesses. These models can be very challenging to get off the ground, but when they work, they can really work. And these learnings compound – our early investments in iconic consumer marketplaces like Airbnb and Redfin yielded more recent investments in the current wave of B2B and labor marketplaces like Instawork or Inventa.
+While marketplaces are one commerce business model we love, we are also excited to partner with application & infrastructure layer projects powering the next wave of consumer & b2b commerce. And just as AI will enable the next wave of service- and vertical marketplaces, we also believe AI will amplify new sales & marketing channels like Postscript with SMS, and accelerate adoption of B2B commerce solutions in older industries, like Pepper with foodservice.
+Brian Chesky  //
+Airbnb
+Belong Anywhere
+In 2010, Airbnb was still in its early days. But it was clear that co-founders Brian Chesky, Joe Gebbia and Nate Blecharczyk had a transformational idea: to redefine the travel experience with a platform powered by individuals. Instead of another travel booking website, they built a living system, with human connection and a sense of belonging at the ce
+
 - [Fintech & Crypto](https://greylock.com/fintech-and-crypto/)
+
+> **摘要:** Fintech & Crypto
+The future of money is automated, accessible, and personalized.
+Overview
+Lending, borrowing, and investing remain time-consuming, opaque processes largely run by traditional banks. But the world of money is on the precipice of fundamental change. Powered by rapid advances in open banking, crypto, and generative AI, money is undergoing a digital transformation that will break open the $11 trillion of market cap trapped by legacy institutions. We believe the best solutions will be those built by developers with strong domain expertise who create tools with customers as the focal point.
+Areas of focus include Payments, Embedded Fintech, Vertical SaaS with embedded fintech, AI-enabled software, Infrastructure & Data Networks, and Consumer Fintech.
+Brian Armstrong  //
+Coinbase
+The Freedom of Crypto for Everyone, Everywhere
+Coinbase started in 2012 with the radical idea that anyone, anywhere, should be able to easily and securely send and receive Bitcoin. Greylock invested in 2017, Coinbase went public in 2021 (Nasdaq: COIN) and today, the company offers a trusted and easy-to-use platform for accessing the broader cryptoeconomy. More than 245,000 ecosystem partners in over 100 countries trust Coinbase to easily and securely invest, spend, save, earn, and use crypto.
+Learn More
+Creating an open financial system for the world.
+https://twitter.com/coinbase
+https://www.linkedin.com/company/coinbase
+http://coinbase.com
+Coinbase is the easiest place to buy, sell, and man
+
 - [News & Insights](https://greylock.com/blog/)
+
+> **摘要:** News & Insights
+NEWSLETTER SIGNUP
+LATEST
+PORTFOLIO NEWS
+GREYMATTER
+FIRM NEWS
+Change Agents
+LATEST
+SELECT
+LATEST
+PORTFOLIO NEWS
+GREYMATTER
+FIRM NEWS
+Change Agents
+LATEST
+LATEST
+PORTFOLIO NEWS
+PORTFOLIO NEWS
+GREYMATTER
+GREYMATTER
+FIRM NEWS
+FIRM NEWS
+Change Agents
+Change Agents
+Filter
+Domain
+AI
+Castles
+Consumer
+Cybersecurity
+Fintech & Crypto
+Infrastructure
+Marketplace & Commerce
+SaaS
+Author
+Asheem Chandna
+Christine Kim
+Corinne Riley
+Glen Evans
+Holly Rose Faith
+Jason Risch
+Jerry Chen
+Lee Haney
+Mike Duboe
+Mor Chen
+Saam Motamedi
+Seth Rosenberg
+Shreya Shekhar
+Sophia Luo
+Load More
+
 
 ### Bessemer
 - [Deep tech  & Defense](https://www.bvp.com/deep-tech-defense)
+
+> **摘要:** Deep tech
+Close Info Window
+Atomo Coffee
+The first of its kind, Atomo Molecular Coffee is an all natural coffee made in Seattle, WA without the traditional bean.
+Visit Website
+Investors
+David Cowan
+Founded
+2019
+Partnered
+2020
+Roadmaps
+Consumer
+Deep tech
+Articles
+Perspective: Investing in software powering the green economy
+State of Deep Tech
+Roadmap: Deep Tech
+
 - [Heart of Healthcare](https://www.bvp.com/heart-of-healthcare)
+
+> **摘要:** The healthcare industry brings together brilliant, highly motivated individuals who are driven by the opportunity to make a difference. This podcast introduces you to these leaders and how to make sense of what’s going on in the healthcare industry.
+Spotify
+iHeartRadio
+Apple Podcasts
+
 - [Portfolio careers](https://jobs.bvp.com/jobs)
 - [Marla Jalbut, M.D.](https://www.bvp.com/team/marla-jalbut)
 - [Legora: The fastest enterprise business to reach $100M ARRSurpassing Centaur status in just 18 months, Legora has become the definitive leader in vertical AI software.](https://www.bvp.com/atlas/legora-the-fastest-enterprise-business-to-reach-100m-arr)
@@ -50,6 +156,86 @@ _无法获取或无内容_
 
 ### Insight Partners
 - [Go to home pagemain-logomain-logo](https://www.insightpartners.com)
+
+> **摘要:** Scale Up,
+Take Off
+Scaling the future of AI.
+arrow-right
+Previous slide
+arrow-left
+Next slide
+close
+Series A
+The leading AI writing platform for teams
+May Habib is challenging a $13B incumbent
+Series A / ScaleUp:AI Partner
+SAN FRANCISCO, CA
+Read Full Article
+close
+Series A
+Definitive Agreement
+From Series A to $32B Acquisition
+A Landmark Journey
+Series A / Series C / Acq. Agreement
+Palo Alto, California
+Read More
+close
+Private Round
+Definitive Agreement
+Healthcare
+Digital Innovation in Science
+Private Round / Acq. Agreement
+Boston, MA
+close
+Series A
+CrewAI is a leading AI multi-agent platform
+Behind the Investment: meet João Moura
+Series A / ScaleUp:AI Partner
+New York, NY
+Read Full Article
+close
+Series B
+IPO
+Business Operations
+Rebranding Monday.com
+A New Channel Partner Program
+From Growth to IPO
+Series B / Series C / Series D / IPO
+Tel Aviv, Israel
+ScaleUp: monday.com
+close
+Series B
+Acquired
+Fintech
+Transforming Corporate Expense Tracking
+Scaling Operations
+Acquisition by Bill.com
+Series B / Series C / Series D / Acquired
+Draper, UT
+close
+Series A
+Series C
+Healthtech
+First Mental Health Unicorn
+Series A / Series B / Series C
+San Francisco, CA
+close
+Series C
+Acquired
+Driving Digital Innovation in the Circular Economy
+Unifying Sales and Marketing
+Expanding Through Strategic Acquisitions
+Transitioning to a SaaS Model
+Series C / Series D / Acquisition
+Limerick, Ireland
+close
+Series C
+Acquired
+Enterprise Architecture
+Accelerating Sales Growth
+Building the A-Team
+Channel Partner
+
 - [ScaleUp Reports](https://www.insightpartners.com/ideas/search?topic=business-benchmarks)
 - [Industry Insights](https://www.insightpartners.com/ideas/search?topic=industry-insights)
 - [Growth Strategies](https://www.insightpartners.com/ideas/search?topic=growth-strategy)
@@ -61,6 +247,15 @@ _无法获取或无内容_
 ### Khosla Ventures
 - [Entrepreneurial Resources](https://www.khoslaventures.com/entrepreneurs)
 - [What is venture assistance? Not just Venture Capital](https://www.khoslaventures.com/posts/venture-assistance-blog-2)
+
+> **摘要:** Many years ago, I wrote
+this blog
+in TechCrunch. Certain updates are warranted, however, the core thesis remains the same: younger (and experienced) entrepreneurs need this assistance far more than capital (funding), even if they don’t quite realize it yet.
+Introduction to Venture Assistance
+The concept of venture assistance is a remarkably simple, yet powerful, framework when pursuing entrepreneurial endeavors. While most venture capital firms claim to add value, their involvement is often limited and not very effective, primarily just providing networking opportunities. This is partly because investment partners are usually stretched thin, serving on many boards. The biggest issue, however, is that some venture capitalists may offer poor advice, lacking firsthand entrepreneurial experience, which is crucial for understanding and guiding entrepreneurs effectively.
+Challenges with the traditional VCs
+A tough pill for most to swallow is that a surprising proportion of venture capitalists, particularly from finance-focused firms, often end up doing more harm than good to startups. A lot of them join company boards without any real experience in building or running a company. The point is not to be iconoclastic, but to highlight a truth about the entrepreneurial journey. It's hard for someone to understand and guide entrepreneurs if they haven't been through that experience themselves. It's like a coach who has never played the sport they're coaching. People usually don't realiz
+
 - [Why Founders Choose us? Founders Choice](https://www.founderschoicevc.com/)
 - [What’s next? It’s Vinod Khosla’s World](https://www.theinformation.com/articles/its-vinod-khoslas-world)
 - [AI: Dystopia or Utopia? An essay by Vinod Khosla](https://www.khoslaventures.com/posts/ai-dystopia-or-utopia)
@@ -80,8 +275,100 @@ _无法获取或无内容_
 
 ### First Round Review
 - [-Executive Function](https://review.firstround.com/executive-function/)
+
+> **摘要:** First Round Review Presents
+Executive
+Function
+Conversations with the 0.001% of scaleup executives about what makes them singularly excellent. Move past the PR talking points to explore the delta between good and uniquely great.
+YouTube
+Apple
+Spotify
+About the show
+Going
+In Depth
+with Scaleup Executives
+Great executives are force multipliers. So we found it surprising there wasn’t more advice about what it means to operate as an elite exec. First Round has dedicated thousands of hours to sharing tactical knowledge on
+The Review
+and
+In Depth
+— and now, on Executive Function, we learn how the best execs lead their companies.
+Jeanne DeWitt Grosser
+COO at Vercel and former CBO at Stripe
+Watch Now
+Ryan Lucas
+VP of Design, Rippling
+Watch Now
+Stevie
+Case
+CRO at Vanta
+Watch Now
+Chris Degnan
+Former CRO at Snowflake
+Watch Now
+Jeremy
+Epling
+CPO at Vanta
+Watch Now
+Katie Burke
+COO at Harvey
+Watch Now
+Coming Soon
+Choose your favorite platform
+Apple
+Spotify
+Amazon
+Overcast
+YouTube
+RSS
+Upcoming
+Episodes
+Christopher Payne
+Former COO at DoorDash
+David Singleton
+Co-founder and CEO at /dev/agents and former CTO at Stripe
+Sheila Joglekar Vashee
+CMO at Figma and former VP of Growth and Marketing at Opendoor
+Lindsey Scrase
+COO at Checkr
+Diya Jolly
+Chief Product and Technology Officer at Xero
+Graham Moreno
+VP of Worldwide GTM at Cognition
+Praveer Melwani
+CFO at Figma
+Jay Parikh
+Executive VP at Microsoft
+Eric Sager
+COO at Plaid
+Listen Now
+Executive Function
+The most politically dangerous role in the 
+
 - [Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like ConsumersNotes from an AI founder taking a swing at a hundred-billion-dollar incumbent.](https://review.firstround.com/servals-path-to-product-market-fit/)
+
+> **摘要:** “What’s your biggest pain point?” no longer deserves its status as a classic customer discovery question. You might have heard a compelling answer to this question ten years ago, but ask this to any modern enterprise software buyer, and you’ll get shrugs.
+Jake Stauch
+realized how little mileage this opener had when he started talking to IT leaders to suss out startup ideas. After five years as Product Lead and eventually Director of Product at
+Verkada
+, he wanted to build an adjacent business: same buyer, different product area.
+But he wasn’t getting anywhere in his discovery conversations — even though he’d spent years building products for this persona. “People have mostly solved the problems they're aware of. They've already got some tool in place,” he says. “I did a lot of interviews where I’d ask, ‘What keeps you up at night?’ And I just didn’t hear anything very interesting.”
+After dozens of unproductive discovery interviews with customers he’d worked with at Verkada, he swapped in a new question:
+"If you could hire somebody today to sit next to you and do your work for you, what would you have them do?"
+That’s when the IT leaders opened up. “We started to hear that these folks wanted someone to take over help desk requests, which are repetitive, manual tasks,” he says. “They never named ticketing as a pain point. No one said they wanted a new ITSM or workflow builder. They just wanted someone to build cool automations to offload this work.”
+That insight was the seed fo
+
 - [Mastering the Human Side of Engineering: Lessons from Apple, Palantir and Slack](https://review.firstround.com/engineering-lessons-apple-palantir-slack/)
+
+> **摘要:** Engineering
+Mastering the Human Side of Engineering: Lessons from Apple, Palantir and Slack
+Apple engineering leader Michael Lopp gives tactical advice for managers on how to empower individual engineers — and become better leaders themselves.
+Outline
+This post is for subscribers only
+Subscribe now
+Already have an account?
+Sign in
+Share on:
+
 - [The Pivot to Product-Market Fit: How Plaid, Clay, Lattice & Other Startups Broke Out](https://review.firstround.com/the-pivot-to-product-market-fit/)
 - [Build Products That Solve Real Problems With This Lightweight JTBD Framework](https://review.firstround.com/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework/)
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
@@ -103,19 +390,87 @@ _无法获取或无内容_
 
 ### Kleiner Perkins
 - [Saronic: Redefining Maritime Superiority](https://www.kleinerperkins.com/perspectives/saronic-redefining-maritime-superiority/)
+
+> **摘要:** Perspectives
+Saronic: Redefining Maritime Superiority
+March 31, 2026
+By
+Ilya Fushman
+Lucas Oliveira
+America’s industrial base has a long history of reinvention. When new technologies emerge, industries absorb them, and the companies that move fastest set the pace for decades. Shipbuilding was once a cornerstone of American industrial power, but our capability has been quietly atrophying for decades. Today, the U.S. represents just 0.1% of global shipbuilding capacity. Existing shipyards are struggling to maintain existing vessels, let alone build new ones at the pace required. The pace of demand has outstripped the industry’s ability to deliver. Meeting it will require shipbuilding to finally embrace the same advances in software, autonomy, and modern manufacturing that have transformed other sectors.
+Saronic is doing exactly that. CEO Dino Mavrookas, an eleven-year Navy SEAL veteran, co-founded the company in 2022 with Rob Lehman, Doug Lambert, and Vibhav Altekar. The team combines decades of experience in defense with world-class engineering talent in hardware and autonomy. The company is vertically integrated across hardware, software, and AI, owning everything from vessel design to autonomy to manufacturing. The result is a technical foundation that compounds over time, enabling the company to move across vessel classes and mission sets faster than previously thought possible.
+Secretary of the Navy John Phelan has called Saronic’s performance “exactly the kind of rapid pr
+
 - [Granola: Putting Your Company’s Context to Work](https://www.kleinerperkins.com/perspectives/granola-putting-your-companys-context-to-work/)
+
+> **摘要:** Perspectives
+Granola: Putting Your Company’s Context to Work
+March 25, 2026
+By
+Mamoon Hamid
+Nadia Cochinwala
+Every company runs on conversations. The most important decisions, the richest customer insights, the real pulse of an organization, all live in meetings, not documents. Yet until now, that conversational context has been fleeting: discussed once, half-remembered, rarely captured in a form that’s actually useful. And the problem scales with the company: more meetings, more context lost, more decisions made without the full picture.
+Granola has built the system of record for conversational context. It starts as an elegantly simple notepad: you jot rough notes during a meeting, Granola transcribes what’s said, then enhances your notes with the full context of the conversation. No awkward bot joining your Zoom. No friction. It works across Zoom, Google Meet, Teams, in-person meetings on iPhone, and phone calls. The result is that people actually use it, not because they’re told to, but because it makes them better at their jobs.
+Granola has earned its way into some of the most innovative companies in the world. Teams at Asana, Vanta, Gusto, Thumbtack, Cursor, and Lovable rely on it daily, and what started as a personal productivity tool is quickly becoming company-wide infrastructure.
+But Granola doesn’t just capture context, it activates it. Spaces let teams organize and share meeting notes with granular access controls, so a sales leader can ask “why are we losing deals
+
 - [Armadin: The Ultimate Attacker](https://www.kleinerperkins.com/perspectives/armadin-the-ultimate-attacker/)
+
+> **摘要:** Perspectives
+Armadin: The Ultimate Attacker
+March 10, 2026
+By
+Josh Coyne
+Lucas Oliveira
+The most effective way to know if your organization is secure is to test it the way an attacker would. By proactively probing systems, offensive cybersecurity doesn’t just surface vulnerabilities; it confirms they are exploitable, eliminating false positives and revealing the actual attack paths that matter. But the practice has been constrained by the scarcity of capable human talent. Cybersecurity remains one of the most talent-starved fields in technology, and elite offensive operators are among the hardest to find. The result is that offensive cybersecurity has remained inaccessible at the scale and frequency needed today. Testing is too expensive, too infrequent, and too dependent on a small pool of elite practitioners. That constraint is about to become untenable. AI is enabling attackers to move faster and more creatively than ever before, dramatically increasing both the volume and sophistication of threats. We believe the only way to meet this moment is to put AI to work on the other side of the equation: fighting AI with AI.
+Armadin is harnessing AI to make the capabilities of elite offensive operators accessible to every organization. Purpose-built to answer two critical questions every CISO needs to know, “Are we secure?” and “If not, what do we need to fix?”, Armadin continuously monitors the attack surface across web applications, internal networks, and external infrastructur
+
 - [Gambit: Digital Continuity That Never Expires](https://www.kleinerperkins.com/perspectives/gambit-digital-continuity-that-never-expires/)
 - [Garner Health: Building the ‘front door’ to healthcare](https://www.kleinerperkins.com/perspectives/garner-health-building-the-front-door-to-healthcare/)
 - [Waymo: The Infrastructure of Autonomy](https://www.kleinerperkins.com/perspectives/waymo-the-infrastructure-of-autonomy/)
 - [Kleiner Perkins Fellows](https://www.kleinerperkins.com/fellows/)
 
 
-## Hedge Fund & Investment Bank Research (标题+链接)
+## Hedge Fund & Investment Bank Research
 
 ### Bridgewater
 - [Research & Insights](https://www.bridgewater.com/research-and-insights)
+
+> **摘要:** Research & Insights
+Modern Mercantilism
+We are in a new geopolitical and macroeconomic paradigm. For decades, globalization—characterized by rising trade and capital liberalization—defined the world order. That era is over. In its place is emerging what we call “modern mercantilism,” where national self-interest takes precedence over global cooperation. While this transition has been underway for years, it has now sharply accelerated. A global system of interdependence, built since the dawn of the US-led postwar era, is unraveling. Explore a selection of our insights.
+Portfolio Challenges
+We are now in a radically different macroeconomic environment—one that poses urgent challenges to markets and portfolios. Today’s mix of global assets reflects the winners of the past paradigm. As a result, many portfolios are more vulnerable than ever to slowing growth, an equity bear market, or US underperformance. They are also geographically concentrated and increasingly illiquid—with little protection against inflation. In short, they are not resilient. Explore a selection of our insights.
+Artificial Intelligence
+Since the development of our first investment systems decades ago, Bridgewater has been at the forefront of using technology to go beyond human capabilities. Today, we are in the midst of a once-in-a-generation technological disruption, unfolding alongside profound shifts in the macroeconomic and geopolitical landscape. Artificial intelligence is already influencing markets and
+
 - [Working at Bridgewater](https://www.bridgewater.com/working-at-bridgewater)
+
+> **摘要:** Working at Bridgewater
+Tony Luong
+Spotlight on Investment
+Spotlight on Investment
+Our investment team seeks to understand the fundamental drivers of markets and turns that understanding into high quality portfolios and investment insight for our clients.
+Learn More
+Spotlight on Technologists
+Spotlight on Technologists
+Join the team that systematizes and scales our understanding of the world's markets and economies.
+Learn More
+Students
+Students
+Learn more about our investment internship opportunities and programs designed to provide real and meaningful exposure to Bridgewater’s fundamental and systematic investment process.
+Learn More
+All Job Openings
+Expand all job categories
+Diversity & Inclusion
+Diversity & Inclusion
+Diversity and inclusion are part of building an idea meritocracy
+Learn More
+FAQs
+FAQs
+Answers to common questions we receive from prospective employees
+Learn More
+
 - [SFDR Disclosures](https://www.bridgewater.com/sustainable-finance-disclosure-regulation-disclosures)
 - [Quebec Complaint Policy](https://www.bridgewater.com/_document/quebec-complaint-policy?id=00000197-f98d-df27-afd7-f9bd52700000)
 - [Phishing and Fraud Awareness Notice](https://www.bridgewater.com/phishing-and-fraud-awareness-notice)
@@ -125,6 +480,15 @@ _无法获取或无内容_
 
 ### AQR
 - [https://www.aqr.com/Contact-Us](https://www.aqr.com/insights/research/Contact-Us)
+
+> **摘要:** The page you are looking for does not exist or has been moved. To find what you’re looking for, try one of the following:
+Search For What You Were Looking For >
+Browse the Main Areas of the Site
+Home >
+Education >
+Strategies >
+About Us >
+
 - [https://cybercrime.gov.in](http://)
 - [Cliff's Perspectives](https://www.aqr.com/insights/research/Insights/Perspectives)
 - [Alternative Thinking](https://www.aqr.com/insights/research/Insights/Research/Alternative-Thinking)
