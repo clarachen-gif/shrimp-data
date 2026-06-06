@@ -263,7 +263,14 @@ A tough pill for most to swallow is that a surprising proportion of venture capi
 - [Self-driving trucks](https://www.khoslaventures.com/portfolio/waabi)
 
 ### Index Ventures
-_无法获取或无内容_
+- [Read moreOpens in a new window.](https://www.indexventures.com/perspectives/perspectives/radical-care-why-alans-co-founder-is-rewriting-the-rules-of-healthcare/)
+- [Jean-Charles Samuelian-WerveAlan](https://www.indexventures.com/perspectives/perspectives/radical-care-why-alans-co-founder-is-rewriting-the-rules-of-healthcare/)
+- [Julie BornsteinDaydream](https://www.indexventures.com/perspectives/perspectives/julie-bornsteins-mission-to-reinvent-shopping/)
+- [Aaron KatzClickHouse](https://www.indexventures.com/perspectives/perspectives/aaron-katzs-journey-from-salesforce-to-clickhouse/)
+- [Vlad TenevRobinhood](https://www.indexventures.com/perspectives/perspectives/trade-winds-the-rise-reckoning-and-reimagining-of-vlad-tenev/)
+- [Assaf RappaportWiz](https://www.indexventures.com/perspectives/perspectives/candid-with-index-in-conversation-with-wizs-assaf-rappaport/)
+- [Chris UrmsonAurora](https://www.indexventures.com/perspectives/perspectives/driven-how-chris-urmson-and-aurora-are-building-the-future-of-self-driving/)
+- [Riccardo ZacconiKing](https://www.indexventures.com/perspectives/perspectives/the-king-of-candy-how-riccardo-zacconi-and-king-conquered-mobile-gaming/)
 
 ### First Round Review
 - [-Executive Function](https://review.firstround.com/executive-function/)
@@ -360,10 +367,10 @@ managed
 , many of those concrete tactics and strategies get decidedly less detailed. While it’s universally understood that building a good relationship with your manager takes work — even if you take to each other like a duck to water — the prescription for how to do so often fails to pack a punch.
 That’s in part because managing up is a rather amorphous category, encompassing everyt
 
+- [The Founder Dating Playbook – Here’s the Process I Used to Find My Co-Founder](https://review.firstround.com/the-founder-dating-playbook-heres-the-process-i-used-to-find-my-co-founder/)
 - [40 Favorite Interview Questions from Some of the Sharpest Folks We Know](https://review.firstround.com/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
 - [The 6 Decision-Making Frameworks That Help Startup Leaders Tackle Tough Calls](https://review.firstround.com/the-6-decision-making-frameworks-that-help-startup-leaders-tackle-tough-calls/)
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
-- [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 - [View all articles](https://review.firstround.com/articles/)
 
 ### Lightspeed
@@ -436,7 +443,49 @@ Our conviction in that team is why we incubated the company and led the seed. To
 ## Hedge Fund & Investment Bank Research
 
 ### Bridgewater
-_无法获取或无内容_
+- [Research & Insights](https://www.bridgewater.com/research-and-insights)
+
+> **摘要:** Research & Insights
+Modern Mercantilism
+We are in a new geopolitical and macroeconomic paradigm. For decades, globalization—characterized by rising trade and capital liberalization—defined the world order. That era is over. In its place is emerging what we call “modern mercantilism,” where national self-interest takes precedence over global cooperation. While this transition has been underway for years, it has now sharply accelerated. A global system of interdependence, built since the dawn of the US-led postwar era, is unraveling. Explore a selection of our insights.
+Portfolio Challenges
+We are now in a radically different macroeconomic environment—one that poses urgent challenges to markets and portfolios. Today’s mix of global assets reflects the winners of the past paradigm. As a result, many portfolios are more vulnerable than ever to slowing growth, an equity bear market, or US underperformance. They are also geographically concentrated and increasingly illiquid—with little protection against inflation. In short, they are not resilient. Explore a selection of our insights.
+Artificial Intelligence
+Since the development of our first investment systems decades ago, Bridgewater has been at the forefront of using technology to go beyond human capabilities. Today, we are in the midst of a once-in-a-generation technological disruption, unfolding alongside profound shifts in the macroeconomic and geopolitical landscape. Artificial intelligence is already influencing markets and
+
+- [Working at Bridgewater](https://www.bridgewater.com/working-at-bridgewater)
+
+> **摘要:** Working at Bridgewater
+Tony Luong
+Spotlight on Investment
+Spotlight on Investment
+Our investment team seeks to understand the fundamental drivers of markets and turns that understanding into high quality portfolios and investment insight for our clients.
+Learn More
+Spotlight on Technologists
+Spotlight on Technologists
+Join the team that systematizes and scales our understanding of the world's markets and economies.
+Learn More
+Students
+Students
+Learn more about our investment internship opportunities and programs designed to provide real and meaningful exposure to Bridgewater’s fundamental and systematic investment process.
+Learn More
+All Job Openings
+Expand all job categories
+Diversity & Inclusion
+Diversity & Inclusion
+Diversity and inclusion are part of building an idea meritocracy
+Learn More
+FAQs
+FAQs
+Answers to common questions we receive from prospective employees
+Learn More
+
+- [SFDR Disclosures](https://www.bridgewater.com/sustainable-finance-disclosure-regulation-disclosures)
+- [Quebec Complaint Policy](https://www.bridgewater.com/_document/quebec-complaint-policy?id=00000197-f98d-df27-afd7-f9bd52700000)
+- [Phishing and Fraud Awareness Notice](https://www.bridgewater.com/phishing-and-fraud-awareness-notice)
+- [Modern Mercantilism](https://www.bridgewater.com/research-and-insights/modern-mercantilism)
+- [Portfolio Challenges](https://www.bridgewater.com/research-and-insights/portfolio-challenges)
+- [Artificial Intelligence](https://www.bridgewater.com/research-and-insights/artificial-intelligence)
 
 ### AQR
 - [https://www.aqr.com/Contact-Us](https://www.aqr.com/insights/research/Contact-Us)
