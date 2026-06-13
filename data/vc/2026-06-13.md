@@ -333,25 +333,15 @@ So we brought Jackson back to unpack what positioning looks like in the age of A
 For decades, Silicon Valley operated on the assumption that the best product wins. But now models are shared, infrastructure is abstracted, and products that once required years of engineering work can launch in six days or six hours.
 For the last couple of years, founders have been able to get away with simply using AI as their differentiator because slapping “AI” onto an existing category felt like something entirely new: "AI-powered provider credentialing," "AI communications for car dealerships," "AI agents for customs brokers.” The novelty made buyers pay attention. The problem is that "AI-powered X" stops being a positio
 
+- [The IC’s Guide to Driving Career Conversations — 25 Tips for Purposeful Career Planning](https://review.firstround.com/the-ics-guide-to-driving-career-conversations-25-tips-for-purposeful-career-planning/)
+
+> **摘要:** There’s a reason that “Where do you see yourself in five years?” is one of the most frequently-cited interview questions — career planning is expected to be top-of-mind for folks, particularly when approaching a new job opportunity. But in reality, many often take a much more haphazard approach to plotting the points along their career roadmap. See if the following symptoms sound familiar: Maybe it’s the feeling of dreading performance review season and leaving your self-evaluation to the last minute. Perhaps you’re racking your brain to come up with a cogent response when your manager asks how they can support your career development. Or you’re starting to look for a new job and struggling to take stock of what you want — and don’t want — in your next role. Or perhaps career planning was something you did when you were
+first entering the workforce
+, with a long-shelved 5, 10, and 20-year plan.
+One of the biggest signals that career planning has been on the backburner is delegating most (if not all) of the heavy lifting to your manager by default— trusting them to highlight your strengths, surface opportunities across the org to flex those muscles and deliver a steady stream of feedback. But folks looking to take ownership of their own career should take the driver’s, not the passenger’s seat.
+And that requires shifting your perspective, particularly at high-growth startups where career ladders are constantly shuffling (if they even exist in the first place), managers are lac
+
 - [A Tactical Guide to Managing Up: 30 Tips from the Smartest People We Know](https://review.firstround.com/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know/)
-
-> **摘要:** Loading the
-Elevenlabs Text to Speech
-AudioNative Player...
-There’s an oft-repeated phrase: “People don’t quit a job, they quit a boss.” Certainly if you want to go the manager route, it’s critical to
-become a trusted captain
-in order to retain a top crew. But foisting all the blame onto bad bosses when these pairings go awry is also an oversimplification — one that takes agency away from the employee.
-Like any relationship, that of the manager and their report is a two-way street, and the task of navigating the often bumpy road along a startup’s course falls on both parties. There are those managers who you instantly click with, falling into an easy rhythm as though you’ve worked together for years. Others duos may seem like you’re trying to force two repelling magnets together. But more likely, your relationship with your boss falls somewhere in between these two extremes.
-Whether
-you’re taking on your first direct report
-or you’re a
-seasoned leader looking to sharpen your skills
-, there’s plenty of advice to go around when it comes to managers. But when the focus shifts to those who are being
-managed
-, many of those concrete tactics and strategies get decidedly less detailed. While it’s universally understood that building a good relationship with your manager takes work — even if you take to each other like a duck to water — the prescription for how to do so often fails to pack a punch.
-That’s in part because managing up is a rather amorphous category, encompassing everyt
-
-- [The 6 Decision-Making Frameworks That Help Startup Leaders Tackle Tough Calls](https://review.firstround.com/the-6-decision-making-frameworks-that-help-startup-leaders-tackle-tough-calls/)
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 - [View all articles](https://review.firstround.com/articles/)
