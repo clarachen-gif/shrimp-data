@@ -59,7 +59,7 @@ _无法获取或无内容_
 > **摘要:** Newsletter Signup
 Subscribe to the Greylock newsletter
 Stay close to the ideas, founders, and technologies shaping what’s next. Subscribe to the Greylock newsletter for updates from the firm, insights from our team, and news from across the portfolio.
-Phone
+Company
 This field is for validation purposes and should be left unchanged.
 First Name
 (Required)
@@ -295,17 +295,6 @@ How to build a beloved tech brand | Sheila Joglekar Vashee (CMO, Figma)
 Why old-school sales work still wins in the AI era | Graham Moreno (Head of GTM, Parallel)
 Why founders should bet on first-time 
 
-- [“AI-Powered” Isn’t a Position](https://review.firstround.com/positioning-playbook-for-ai-products/)
-
-> **摘要:** A lot has changed since
-Arielle Jackson
-(First Round’s Head of Brand and Product Marketing) wrote her first Review article in 2015 on
-positioning your startup
-. For over 10 years, she’s helped hundreds of First Round founders with early positioning, brand identity, launch communications and marketing hiring — and while many of the fundamentals remain, her advice the last couple years has shifted as AI changes how companies do all of these things.
-So we brought Jackson back to unpack what positioning looks like in the age of AI, and the unique advantage it gives companies when product differentiators can evaporate overnight. You can’t just ship “AI-powered” on your website (like you could, maybe even a year ago). Positioning and brand are the result of thoughtful choices founders must reinforce and continually update. With that, we’ll pass it to Jackson.
-For decades, Silicon Valley operated on the assumption that the best product wins. But now models are shared, infrastructure is abstracted, and products that once required years of engineering work can launch in six days or six hours.
-For the last couple of years, founders have been able to get away with simply using AI as their differentiator because slapping “AI” onto an existing category felt like something entirely new: "AI-powered provider credentialing," "AI communications for car dealerships," "AI agents for customs brokers.” The novelty made buyers pay attention. The problem is that "AI-powered X" stops being a positio
-
 - [A Tactical Guide to Managing Up: 30 Tips from the Smartest People We Know](https://review.firstround.com/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know/)
 
 > **摘要:** Loading the
@@ -325,8 +314,20 @@ managed
 That’s in part because managing up is a rather amorphous category, encompassing everyt
 
 - [Build Products That Solve Real Problems With This Lightweight JTBD Framework](https://review.firstround.com/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework/)
+
+> **摘要:** This article is by
+Sunita Mohanty
+, who is a Product Lead as a part of Facebook's New Product Experimentation. She has built products for startups, nonprofits and global public companies, most recently leading product teams at Oculus, Facebook Core Growth and as Director of Product at Lumosity. She is also a startup advisor, angel investor, and member of First Round’s
+Angel Track community
+.
+In my role leading product teams as a part of Facebook's
+New Product Experimentation
+, we’re focused on that hazy “0 to 1” stage of building, where ideas are unproven and products are in their most nascent stages. My job is to distill the complicated unknowns of a big, disruptive vision into clear, actionable steps for my teams and increase our chances of finding product-market fit at every step. This focus on taking big swings while still pursuing concrete steps toward building valuable products is the direct result of my previous experiences — I’ve felt the pain that comes from building products that fail to tackle a clear problem firsthand.
+Right after grad school at Stanford, I found myself in the middle of my first startup: a failing K-12 analytics company. We were on a mission to improve a broken education system with the promise of interesting technology. But we were stuck in circles of decision-making and couldn’t successfully execute or build traction. Looking back, it’s easy to diagnose that we had a hard time focusing on which problem to solve first because we didn’t understand
+
 - [The Founder Dating Playbook – Here’s the Process I Used to Find My Co-Founder](https://review.firstround.com/the-founder-dating-playbook-heres-the-process-i-used-to-find-my-co-founder/)
 - [40 Favorite Interview Questions from Some of the Sharpest Folks We Know](https://review.firstround.com/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
+- [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 - [View all articles](https://review.firstround.com/articles/)
 - [Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like ConsumersNotes from an AI founder taking a swing at a hundred-billion-dollar incumbent.](https://review.firstround.com/servals-path-to-product-market-fit/)
 
