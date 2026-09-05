@@ -23,7 +23,7 @@ _无法获取或无内容_
 > **摘要:** Newsletter Signup
 Subscribe to the Greylock newsletter
 Stay close to the ideas, founders, and technologies shaping what’s next. Subscribe to the Greylock newsletter for updates from the firm, insights from our team, and news from across the portfolio.
-Comments
+X/Twitter
 This field is for validation purposes and should be left unchanged.
 First Name
 (Required)
@@ -314,25 +314,38 @@ Why old-school sales work still wins in the AI era | Graham Moreno (Head of GTM,
 Why founders should bet on first-time executives | Praveer Melwani (CFO, Figma)
 Why gre
 
+- [The Pivot to Product-Market Fit: How Plaid, Clay, Lattice & Other Startups Broke Out](https://review.firstround.com/the-pivot-to-product-market-fit/)
+
+> **摘要:** Slack was originally a gaming app. Twitter started out as a podcast platform. Brex first pitched Y Combinator a VR headset.
+These pivots, now, almost feel like startup campfire stories — we see the results, but what’s often obscured in the successes are the specific, painstaking moves founders made to find product-market fit.
+We’ve had the opportunity to share dozens of lesser-known pivot stories here on The Review in our ongoing
+Paths to Product-Market Fit series
+, and in the process, we’ve developed a more granular definition of pivoting than simply “going in a different direction.” In our detailed essay breaking down the
+four levels of PMF
+, we offered our own take on
+the four Ps of marketing framework
+— four levers you can pull to get unstuck and jump to the next level:
+Problem:
+The fix your customers badly need (or don’t realize they need yet).
+Persona:
+Who’s buying your product, which can either be an individual decision maker (like a CTO) or a company profile (like a thousand-person manufacturing org).
+Promise:
+How you articulate your unique value proposition.
+Product:
+The solution that’ll deliver on your promise.
+Many of the founders we’ve spoken to made pivots that might not sound terribly dramatic on paper, but they tuned the dials on one (or more) of the four Ps and soon after saw the first
+sparks of traction
+.
+Clay
+’s
+Kareem Amin
+originally went wide and juggled multiple personas before committing to a specific one.
+Jack Altman
+realized
+Lattice
+’s original persona
+
 - [A Tactical Guide to Managing Up: 30 Tips from the Smartest People We Know](https://review.firstround.com/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know/)
-
-> **摘要:** Loading the
-Elevenlabs Text to Speech
-AudioNative Player...
-There’s an oft-repeated phrase: “People don’t quit a job, they quit a boss.” Certainly if you want to go the manager route, it’s critical to
-become a trusted captain
-in order to retain a top crew. But foisting all the blame onto bad bosses when these pairings go awry is also an oversimplification — one that takes agency away from the employee.
-Like any relationship, that of the manager and their report is a two-way street, and the task of navigating the often bumpy road along a startup’s course falls on both parties. There are those managers who you instantly click with, falling into an easy rhythm as though you’ve worked together for years. Others duos may seem like you’re trying to force two repelling magnets together. But more likely, your relationship with your boss falls somewhere in between these two extremes.
-Whether
-you’re taking on your first direct report
-or you’re a
-seasoned leader looking to sharpen your skills
-, there’s plenty of advice to go around when it comes to managers. But when the focus shifts to those who are being
-managed
-, many of those concrete tactics and strategies get decidedly less detailed. While it’s universally understood that building a good relationship with your manager takes work — even if you take to each other like a duck to water — the prescription for how to do so often fails to pack a punch.
-That’s in part because managing up is a rather amorphous category, encompassing everyt
-
-- [Managers, Take Your 1:1 Meetings to the Next Level with These 6 Must Reads](https://review.firstround.com/managers-take-your-1-1s-to-the-next-level-with-these-6-must-reads/)
 - [The Founder Dating Playbook – Here’s the Process I Used to Find My Co-Founder](https://review.firstround.com/the-founder-dating-playbook-heres-the-process-i-used-to-find-my-co-founder/)
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 - [The Best Interview Questions We've Ever Published](https://review.firstround.com/the-best-interview-questions-weve-ever-published/)
