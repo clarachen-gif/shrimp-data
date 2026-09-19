@@ -23,7 +23,7 @@ _无法获取或无内容_
 > **摘要:** Newsletter Signup
 Subscribe to the Greylock newsletter
 Stay close to the ideas, founders, and technologies shaping what’s next. Subscribe to the Greylock newsletter for updates from the firm, insights from our team, and news from across the portfolio.
-Email
+Facebook
 This field is for validation purposes and should be left unchanged.
 First Name
 (Required)
@@ -323,10 +323,10 @@ managed
 , many of those concrete tactics and strategies get decidedly less detailed. While it’s universally understood that building a good relationship with your manager takes work — even if you take to each other like a duck to water — the prescription for how to do so often fails to pack a punch.
 That’s in part because managing up is a rather amorphous category, encompassing everyt
 
+- [Build Products That Solve Real Problems With This Lightweight JTBD Framework](https://review.firstround.com/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework/)
 - [40 Favorite Interview Questions from Some of the Sharpest Folks We Know](https://review.firstround.com/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
-- [‘Give Away Your Legos’ and Other Commandments for Scaling Startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups/)
 - [View all articles](https://review.firstround.com/articles/)
 
 ### Lightspeed
