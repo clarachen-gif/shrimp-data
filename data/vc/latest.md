@@ -23,7 +23,7 @@ _无法获取或无内容_
 > **摘要:** Newsletter Signup
 Subscribe to the Greylock newsletter
 Stay close to the ideas, founders, and technologies shaping what’s next. Subscribe to the Greylock newsletter for updates from the firm, insights from our team, and news from across the portfolio.
-LinkedIn
+Company
 This field is for validation purposes and should be left unchanged.
 First Name
 (Required)
@@ -48,12 +48,6 @@ Stay close to the ideas, founders, and technologies shaping what’s next. Subsc
 ### Bessemer
 - [Beyond the capital](https://www.bvp.com/atlas/beyond-the-capital)
 - [Portfolio careers](https://jobs.bvp.com/jobs)
-- [NewsMeet the founders of Ampersand: Ayan Barua and Lauren LongOctober 6, 2026Bessemer Venture Partners leads Ampersand’s $15M Series A to make every enterprise system legible to agents.](https://www.bvp.com/atlas/news/meet-the-founders-of-ampersand-ayan-barua-and-lauren-long)
-- [NewsDevin's next commitSeptember 8, 2026Bessemer’s thesis for investing in Cognition and the future of agentic software development.](https://www.bvp.com/atlas/news/devin-s-next-commit)
-- [Case StudyLaunching AI products that win: LegoraOctober 6, 2026The fastest Centaur in enterprise software history: how they got there and how they doubled to $200M ARR in less than six months.](https://www.bvp.com/atlas/atlas/launching-ai-products-that-win-legora)
-- [ArticleHow marketers are measuring AI searchSeptember 1, 2026Perfect GEO/AEO attribution doesn’t exist. The marketing leaders getting ahead are building their measurement stacks and moving anyway.](https://www.bvp.com/atlas/atlas/how-marketers-are-measuring-ai-search)
-- [NewsBuilding the governed context layer for enterprise AI with Twin1Bessemer Venture Partners co-leads Twin1’s $20 million Seed to build the secure coordination layer for businesses via digital Twins.](https://www.bvp.com/atlas/news/building-the-governed-context-layer-for-enterprise-ai-with-twin1)
-- [ArticleThe Agentic AwakeningWhy 10× faster coding doesn’t translate into proportional organizational productivity, and how AI-pilled leaders do it.](https://theagenticawakening.com/)
 
 ### Insight Partners
 - [Go to home pagemain-logomain-logo](https://www.insightpartners.com)
