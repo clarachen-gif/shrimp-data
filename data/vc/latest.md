@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-10-11
+# VC & Research Daily Fetch — 2026-10-12
 
 ## RSS Feeds (全文)
 
@@ -23,7 +23,7 @@ _无法获取或无内容_
 > **摘要:** Newsletter Signup
 Subscribe to the Greylock newsletter
 Stay close to the ideas, founders, and technologies shaping what’s next. Subscribe to the Greylock newsletter for updates from the firm, insights from our team, and news from across the portfolio.
-Instagram
+X/Twitter
 This field is for validation purposes and should be left unchanged.
 First Name
 (Required)
@@ -269,21 +269,19 @@ Why old-school sales work still wins in the AI era | Graham Moreno (Head of GTM,
 Why founders should bet on first-time executives | Praveer Melwani (CFO, Figma)
 Why gre
 
+- [References are the most underrated tool in hiring](https://review.firstround.com/references-are-the-most-underrated-tool-in-hiring/)
+
+> **摘要:** I’d argue that references are the single most valuable tool in hiring, but I find that most people don’t agree with me. The problem isn’t references themselves, but how we run them.
+The standard practice for executing a reference call is generally horrendous in both tech and venture, and it has been for many years. The typical format is a lazy back-and-forth between a handful of generic questions and overly glowing answers from someone the candidate handpicked, all in a sub-10-minute call. At best, it adds no value and, at worst, it does active harm by just confirming the direction you were already leaning.
+Yet many of the critiques you hear against references overlook the fact that traditional interviews are themselves quite flawed. And how could they not be? What we’re asking of them is an extremely tall order. Over a handful of hours in interviews, we’re trying to understand who someone is at their core, size up their current capabilities, project out their future skills and get a sense of the conditions that would allow them to do extraordinary work.
+Hiring is like trying to get married after a second date
+. It’s a bit of a miracle when the match actually turns out to be excellent. Anyone who has done a lot of hiring (and marrying, I suppose?) knows that you’ll have a pretty good sense of how things are going within the first two weeks. And of course, with an even longer time horizon (say, if you could remake the decision in six months), you’d be radically more accurate.
+
+
 - [“AI-Powered” Isn’t a Position](https://review.firstround.com/positioning-playbook-for-ai-products/)
-
-> **摘要:** A lot has changed since
-Arielle Jackson
-(First Round’s Head of Brand and Product Marketing) wrote her first Review article in 2015 on
-positioning your startup
-. For over 10 years, she’s helped hundreds of First Round founders with early positioning, brand identity, launch communications and marketing hiring — and while many of the fundamentals remain, her advice the last couple years has shifted as AI changes how companies do all of these things.
-So we brought Jackson back to unpack what positioning looks like in the age of AI, and the unique advantage it gives companies when product differentiators can evaporate overnight. You can’t just ship “AI-powered” on your website (like you could, maybe even a year ago). Positioning and brand are the result of thoughtful choices founders must reinforce and continually update. With that, we’ll pass it to Jackson.
-For decades, Silicon Valley operated on the assumption that the best product wins. But now models are shared, infrastructure is abstracted, and products that once required years of engineering work can launch in six days or six hours.
-For the last couple of years, founders have been able to get away with simply using AI as their differentiator because slapping “AI” onto an existing category felt like something entirely new: "AI-powered provider credentialing," "AI communications for car dealerships," "AI agents for customs brokers.” The novelty made buyers pay attention. The problem is that "AI-powered X" stops being a positio
-
 - [A Tactical Guide to Managing Up: 30 Tips from the Smartest People We Know](https://review.firstround.com/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know/)
+- [The Founder Dating Playbook – Here’s the Process I Used to Find My Co-Founder](https://review.firstround.com/the-founder-dating-playbook-heres-the-process-i-used-to-find-my-co-founder/)
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
-- [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
-- [‘Give Away Your Legos’ and Other Commandments for Scaling Startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups/)
 - [View all articles](https://review.firstround.com/articles/)
 
 ### Lightspeed
