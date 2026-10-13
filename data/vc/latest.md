@@ -1,9 +1,25 @@
-# VC & Research Daily Fetch — 2026-10-12
+# VC & Research Daily Fetch — 2026-10-13
 
 ## RSS Feeds (全文)
 
 ### Sequoia Capital
-_今日无新文章_
+
+**TypeSafe: The Jevolution**
+- Link: https://www.sequoiacap.com/article/typesafe-the-jevolution
+- Date: Sat, 10 Oct 2026 00:00:00 -0000
+- Author: Sonya Huang and Sonali Singh
+
+
+**Partnering with Catalyst: Turning Ideas into Trades**
+- Link: https://www.sequoiacap.com/article/partnering-with-catalyst-turning-ideas-into-trades
+- Date: Thu, 08 Oct 2026 00:00:00 -0000
+- Author: George Robson
+
+
+**Partnering with Mecka: Bringing AI to the Physical World**
+- Link: https://www.sequoiacap.com/article/partnering-with-mecka
+- Date: Wed, 07 Oct 2026 00:00:00 -0000
+- Author: Anas Biad and James Flynn
 
 ### Elad Gil
 _今日无新文章_
@@ -23,7 +39,7 @@ _无法获取或无内容_
 > **摘要:** Newsletter Signup
 Subscribe to the Greylock newsletter
 Stay close to the ideas, founders, and technologies shaping what’s next. Subscribe to the Greylock newsletter for updates from the firm, insights from our team, and news from across the portfolio.
-X/Twitter
+Company
 This field is for validation purposes and should be left unchanged.
 First Name
 (Required)
