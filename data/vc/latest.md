@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-10-15
+# VC & Research Daily Fetch — 2026-10-16
 
 ## RSS Feeds (全文)
 
@@ -27,7 +27,7 @@ _无法获取或无内容_
 > **摘要:** Newsletter Signup
 Subscribe to the Greylock newsletter
 Stay close to the ideas, founders, and technologies shaping what’s next. Subscribe to the Greylock newsletter for updates from the firm, insights from our team, and news from across the portfolio.
-URL
+Instagram
 This field is for validation purposes and should be left unchanged.
 First Name
 (Required)
@@ -283,9 +283,9 @@ Hiring is like trying to get married after a second date
 
 
 - [“AI-Powered” Isn’t a Position](https://review.firstround.com/positioning-playbook-for-ai-products/)
-- [A Tactical Guide to Managing Up: 30 Tips from the Smartest People We Know](https://review.firstround.com/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know/)
 - [The Founder Dating Playbook – Here’s the Process I Used to Find My Co-Founder](https://review.firstround.com/the-founder-dating-playbook-heres-the-process-i-used-to-find-my-co-founder/)
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
+- [How to Become Insanely Well-Connected](https://review.firstround.com/how-to-become-insanely-well-connected/)
 - [View all articles](https://review.firstround.com/articles/)
 
 ### Lightspeed
