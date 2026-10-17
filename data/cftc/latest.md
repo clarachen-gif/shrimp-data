@@ -1,35 +1,35 @@
-# CFTC Positioning — 2026-10-06
+# CFTC Positioning — 2026-10-13
 
 ## Equity
 | Asset | Net | Z-Score | W/W Chg | Flow | Crowding |
 |-------|-----|---------|---------|------|----------|
-| S&P 500 | -415,087 | -1.3 | -42,598 |  |  |
-| Nasdaq 100 | -19,212 | 0.7 | +5,511 |  |  |
-| Russell 2000 | -105,317 | -1.7 | +9,237 |  |  |
+| S&P 500 | -408,726 | -1.2 | +6,361 |  |  |
+| Nasdaq 100 | -11,593 | 1.1 | +7,619 | Short Cover |  |
+| Russell 2000 | -91,647 | -1.1 | +13,670 | Long Build |  |
 
 ## Bonds
 | Asset | Net | Z-Score | W/W Chg | Flow | Crowding |
 |-------|-----|---------|---------|------|----------|
-| UST 2Y | -1,257,484 | 2.4 | -91,504 |  | Crowded Long |
-| UST 10Y | -2,139,785 | -0.2 | -103,353 | Short Build |  |
+| UST 2Y | -1,367,408 | 2.1 | -109,924 | Short Build | Crowded Long |
+| UST 10Y | -2,205,937 | -0.3 | -66,152 |  |  |
 
 ## FX
 | Asset | Net | Z-Score | W/W Chg | Flow | Crowding |
 |-------|-----|---------|---------|------|----------|
-| EUR/USD | -44,261 | -1.4 | -4,996 |  |  |
-| JPY/USD | -25,043 | 0.7 | -10,882 | Long Unwind |  |
-| GBP/USD | 12,432 | -1.3 | +7,826 |  |  |
-| Bitcoin | -16,427 | -1.1 | -5,067 | Short Build |  |
+| EUR/USD | -68,001 | -2.2 | -23,740 | Short Pressure | Crowded Short |
+| JPY/USD | -33,673 | 0.5 | -8,630 |  |  |
+| GBP/USD | 10,313 | -1.4 | -2,119 |  |  |
+| Bitcoin | -13,907 | -0.8 | +2,520 |  |  |
 
 ## Energy
 | Asset | Net | Z-Score | W/W Chg | Flow | Crowding |
 |-------|-----|---------|---------|------|----------|
-| WTI Crude | 53,598 | -0.8 | -25,994 | Long Unwind |  |
-| Natural Gas | -144,537 | -1.3 | -11,738 |  |  |
+| WTI Crude | 40,574 | -1.0 | -13,024 |  |  |
+| Natural Gas | -126,481 | -1.1 | +18,056 |  |  |
 
 ## Metals
 | Asset | Net | Z-Score | W/W Chg | Flow | Crowding |
 |-------|-----|---------|---------|------|----------|
-| Gold | 110,987 | -0.1 | -9,331 | Short Build |  |
-| Silver | 7,528 | -1.1 | -86 |  |  |
-| Copper | 61,134 | 0.6 | -16,924 | Long Unwind |  |
+| Gold | 107,089 | -0.2 | -3,898 |  |  |
+| Silver | 5,619 | -1.4 | -1,909 |  |  |
+| Copper | 61,058 | 0.6 | -76 |  |  |

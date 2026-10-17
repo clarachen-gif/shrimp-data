@@ -1,13 +1,9 @@
-# VC & Research Daily Fetch — 2026-10-16
+# VC & Research Daily Fetch — 2026-10-17
 
 ## RSS Feeds (全文)
 
 ### Sequoia Capital
-
-**TypeSafe: The Jevolution**
-- Link: https://www.sequoiacap.com/article/typesafe-the-jevolution
-- Date: Sat, 10 Oct 2026 00:00:00 -0000
-- Author: Sonya Huang and Sonali Singh
+_今日无新文章_
 
 ### Elad Gil
 _今日无新文章_
