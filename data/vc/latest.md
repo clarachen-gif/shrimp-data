@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-10-18
+# VC & Research Daily Fetch — 2026-10-19
 
 ## RSS Feeds (全文)
 
@@ -279,9 +279,9 @@ Hiring is like trying to get married after a second date
 
 
 - [“AI-Powered” Isn’t a Position](https://review.firstround.com/positioning-playbook-for-ai-products/)
+- [Build Products That Solve Real Problems With This Lightweight JTBD Framework](https://review.firstround.com/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework/)
 - [The Founder Dating Playbook – Here’s the Process I Used to Find My Co-Founder](https://review.firstround.com/the-founder-dating-playbook-heres-the-process-i-used-to-find-my-co-founder/)
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
-- [How to Become Insanely Well-Connected](https://review.firstround.com/how-to-become-insanely-well-connected/)
 - [View all articles](https://review.firstround.com/articles/)
 
 ### Lightspeed
