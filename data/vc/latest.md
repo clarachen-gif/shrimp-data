@@ -1,9 +1,19 @@
-# VC & Research Daily Fetch — 2026-10-19
+# VC & Research Daily Fetch — 2026-10-20
 
 ## RSS Feeds (全文)
 
 ### Sequoia Capital
-_今日无新文章_
+
+**Partnering with Blacksmith**
+- Link: https://www.sequoiacap.com/article/partnering-with-blacksmith
+- Date: Wed, 21 Oct 2026 00:00:00 -0000
+- Author: Isaiah Boone and Carl Eschenbach
+
+
+**Partnering with Whop**
+- Link: https://www.sequoiacap.com/article/partnering-with-whop
+- Date: Wed, 21 Oct 2026 00:00:00 -0000
+- Author: Doug Leone
 
 ### Elad Gil
 _今日无新文章_
@@ -23,7 +33,7 @@ _无法获取或无内容_
 > **摘要:** Newsletter Signup
 Subscribe to the Greylock newsletter
 Stay close to the ideas, founders, and technologies shaping what’s next. Subscribe to the Greylock newsletter for updates from the firm, insights from our team, and news from across the portfolio.
-Email
+Company
 This field is for validation purposes and should be left unchanged.
 First Name
 (Required)
