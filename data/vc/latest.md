@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-10-21
+# VC & Research Daily Fetch — 2026-10-22
 
 ## RSS Feeds (全文)
 
@@ -33,7 +33,7 @@ _无法获取或无内容_
 > **摘要:** Newsletter Signup
 Subscribe to the Greylock newsletter
 Stay close to the ideas, founders, and technologies shaping what’s next. Subscribe to the Greylock newsletter for updates from the firm, insights from our team, and news from across the portfolio.
-Facebook
+URL
 This field is for validation purposes and should be left unchanged.
 First Name
 (Required)
@@ -217,12 +217,6 @@ Founder's Choice VC Leaderboard
 - [Assaf RappaportWiz](https://www.indexventures.com/perspectives/perspectives/candid-with-index-in-conversation-with-wizs-assaf-rappaport/)
 
 ### First Round Review
-- [Go to First Round Capital](https://firstround.com/?utm_source=firstround_review&utm_medium=referral&utm_campaign=learn_more&utm_content=header)
-
-> **摘要:** What makes First Round different?
-We’re focused on being the world’s best partner for founders at the very first stages of company creation — so we’ve designed First Round to do just that. You get super active partners (all of whom are former founders themselves) to work side-by-side with you across your first few years. You also tap into an extensive team designed to help you fast forward through the tough nitty-gritty of those early years so you can focus on what makes your company special. Whether it’s GTM experts mapping out your initial sales strategy, or recruiters connecting you with top-tier candidates for critical early hires, we’re here to fill in until your team is filled out.
-Usually founders have to choose between early stage focus and that kind of functional expertise, but with First Round you can have your cake and eat it too.
-
 - [-Executive Function](https://review.firstround.com/executive-function/)
 
 > **摘要:** First Round Review Presents
@@ -289,10 +283,21 @@ Hiring is like trying to get married after a second date
 
 
 - [“AI-Powered” Isn’t a Position](https://review.firstround.com/positioning-playbook-for-ai-products/)
+
+> **摘要:** A lot has changed since
+Arielle Jackson
+(First Round’s Head of Brand and Product Marketing) wrote her first Review article in 2015 on
+positioning your startup
+. For over 10 years, she’s helped hundreds of First Round founders with early positioning, brand identity, launch communications and marketing hiring — and while many of the fundamentals remain, her advice the last couple years has shifted as AI changes how companies do all of these things.
+So we brought Jackson back to unpack what positioning looks like in the age of AI, and the unique advantage it gives companies when product differentiators can evaporate overnight. You can’t just ship “AI-powered” on your website (like you could, maybe even a year ago). Positioning and brand are the result of thoughtful choices founders must reinforce and continually update. With that, we’ll pass it to Jackson.
+For decades, Silicon Valley operated on the assumption that the best product wins. But now models are shared, infrastructure is abstracted, and products that once required years of engineering work can launch in six days or six hours.
+For the last couple of years, founders have been able to get away with simply using AI as their differentiator because slapping “AI” onto an existing category felt like something entirely new: "AI-powered provider credentialing," "AI communications for car dealerships," "AI agents for customs brokers.” The novelty made buyers pay attention. The problem is that "AI-powered X" stops being a positio
+
 - [Build Products That Solve Real Problems With This Lightweight JTBD Framework](https://review.firstround.com/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework/)
 - [The Founder Dating Playbook – Here’s the Process I Used to Find My Co-Founder](https://review.firstround.com/the-founder-dating-playbook-heres-the-process-i-used-to-find-my-co-founder/)
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 - [View all articles](https://review.firstround.com/articles/)
+- [Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like ConsumersNotes from an AI founder taking a swing at a hundred-billion-dollar incumbent.](https://review.firstround.com/servals-path-to-product-market-fit/)
 
 ### Lightspeed
 _无法获取或无内容_
@@ -310,7 +315,7 @@ Sagalov categorizes investors into three main buckets: the ones that are heavily
 The first type of investor is the most valuable according to Sagalov: “They’re going to help you with recruiting, hiring, go to market. And the most interesting thing with those investors is often it’s completely disconnected from the check size.”
 Although it may feel counterintuitive to turn down investment
 
-- [Teresa Carlson's journey from Cloud Pioneer to AI Policy Influencer](https://www.bizjournals.com/washington/news/2025/05/20/teresa-carlson-aws-ai-policy-general-catalyst.html)
+- [NewsGCI President’s Journey from Cloud Pioneer to AI Policy Influencer](https://www.bizjournals.com/washington/news/2025/05/20/teresa-carlson-aws-ai-policy-general-catalyst.html)
 - [NewsGeneral Catalyst Defense and Industrial Founders (Podcast)](https://www.youtube.com/watch?v=NJ9TUEW4fh8)
 - [NewsHow to run a global business in a re-globalised world](https://www.ft.com/content/0940aa70-8d28-4c0f-bbc4-d394a6a6ef9b)
 - [NewsHemant Taneja's Latest Book 'The Transformation Principles' is Available Now](https://www.amazon.com/dp/1637747357)
