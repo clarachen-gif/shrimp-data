@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-10-22
+# VC & Research Daily Fetch — 2026-10-23
 
 ## RSS Feeds (全文)
 
@@ -33,7 +33,7 @@ _无法获取或无内容_
 > **摘要:** Newsletter Signup
 Subscribe to the Greylock newsletter
 Stay close to the ideas, founders, and technologies shaping what’s next. Subscribe to the Greylock newsletter for updates from the firm, insights from our team, and news from across the portfolio.
-URL
+LinkedIn
 This field is for validation purposes and should be left unchanged.
 First Name
 (Required)
