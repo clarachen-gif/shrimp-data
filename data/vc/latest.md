@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-10-23
+# VC & Research Daily Fetch — 2026-10-24
 
 ## RSS Feeds (全文)
 
@@ -33,7 +33,7 @@ _无法获取或无内容_
 > **摘要:** Newsletter Signup
 Subscribe to the Greylock newsletter
 Stay close to the ideas, founders, and technologies shaping what’s next. Subscribe to the Greylock newsletter for updates from the firm, insights from our team, and news from across the portfolio.
-LinkedIn
+Email
 This field is for validation purposes and should be left unchanged.
 First Name
 (Required)
@@ -466,13 +466,13 @@ About Us >
 
 ### Morgan Stanley
 - [Investor Relations](https://www.morganstanley.com/ideas/about-us-ir)
+- [Europe, Middle East, and Africa](https://www.morganstanley.com/ideas/about-us/global-offices/europe-middle-east-africa)
 - [Morgan Stanley Online](https://login.morganstanleyclientserv.com/ux/)
 - [Morgan Stanley at Work](https://www.morganstanley.com/atwork/employees/login)
 - [Research Portal](https://matrix.ms.com/research)
-- [Personal Finance](https://www.morganstanley.com/ideas/insights/topics/personal-finance)
-- [Technology & Disruption](https://www.morganstanley.com/ideas/insights/topics/technology-disruption)
-- [Diversity & Inclusion](https://www.morganstanley.com/ideas/insights/topics/diversity-and-inclusion)
-- [Morgan Stanley Institute](https://www.morganstanley.com/ideas/insights/institute)
+- [E*TRADE from Morgan Stanley](https://us.etrade.com/etx/pxy/login?icid=ms-global-nav-clientlogin-etrade)
+- [View All Businesses](https://www.morganstanley.com/ideas/what-we-do)
+- [All Institutional Securities](https://www.morganstanley.com/ideas/what-we-do/institutional-securities)
 
 ### JPMorgan
 - [Australia & New Zealand](https://www.jpmorgan.com/AU/en/about-us)
