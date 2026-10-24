@@ -33,7 +33,7 @@ _无法获取或无内容_
 > **摘要:** Newsletter Signup
 Subscribe to the Greylock newsletter
 Stay close to the ideas, founders, and technologies shaping what’s next. Subscribe to the Greylock newsletter for updates from the firm, insights from our team, and news from across the portfolio.
-Email
+LinkedIn
 This field is for validation purposes and should be left unchanged.
 First Name
 (Required)
@@ -273,29 +273,40 @@ Why old-school sales work still wins in the AI era | Graham Moreno (Head of GTM,
 Why founders should bet on first-time executives | Praveer Melwani (CFO, Figma)
 Why gre
 
-- [References are the most underrated tool in hiring](https://review.firstround.com/references-are-the-most-underrated-tool-in-hiring/)
-
-> **摘要:** I’d argue that references are the single most valuable tool in hiring, but I find that most people don’t agree with me. The problem isn’t references themselves, but how we run them.
-The standard practice for executing a reference call is generally horrendous in both tech and venture, and it has been for many years. The typical format is a lazy back-and-forth between a handful of generic questions and overly glowing answers from someone the candidate handpicked, all in a sub-10-minute call. At best, it adds no value and, at worst, it does active harm by just confirming the direction you were already leaning.
-Yet many of the critiques you hear against references overlook the fact that traditional interviews are themselves quite flawed. And how could they not be? What we’re asking of them is an extremely tall order. Over a handful of hours in interviews, we’re trying to understand who someone is at their core, size up their current capabilities, project out their future skills and get a sense of the conditions that would allow them to do extraordinary work.
-Hiring is like trying to get married after a second date
-. It’s a bit of a miracle when the match actually turns out to be excellent. Anyone who has done a lot of hiring (and marrying, I suppose?) knows that you’ll have a pretty good sense of how things are going within the first two weeks. And of course, with an even longer time horizon (say, if you could remake the decision in six months), you’d be radically more accurate.
-
-
-- [“AI-Powered” Isn’t a Position](https://review.firstround.com/positioning-playbook-for-ai-products/)
-
-> **摘要:** A lot has changed since
-Arielle Jackson
-(First Round’s Head of Brand and Product Marketing) wrote her first Review article in 2015 on
-positioning your startup
-. For over 10 years, she’s helped hundreds of First Round founders with early positioning, brand identity, launch communications and marketing hiring — and while many of the fundamentals remain, her advice the last couple years has shifted as AI changes how companies do all of these things.
-So we brought Jackson back to unpack what positioning looks like in the age of AI, and the unique advantage it gives companies when product differentiators can evaporate overnight. You can’t just ship “AI-powered” on your website (like you could, maybe even a year ago). Positioning and brand are the result of thoughtful choices founders must reinforce and continually update. With that, we’ll pass it to Jackson.
-For decades, Silicon Valley operated on the assumption that the best product wins. But now models are shared, infrastructure is abstracted, and products that once required years of engineering work can launch in six days or six hours.
-For the last couple of years, founders have been able to get away with simply using AI as their differentiator because slapping “AI” onto an existing category felt like something entirely new: "AI-powered provider credentialing," "AI communications for car dealerships," "AI agents for customs brokers.” The novelty made buyers pay attention. The problem is that "AI-powered X" stops being a positio
-
 - [Build Products That Solve Real Problems With This Lightweight JTBD Framework](https://review.firstround.com/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework/)
+
+> **摘要:** This article is by
+Sunita Mohanty
+, who is a Product Lead as a part of Facebook's New Product Experimentation. She has built products for startups, nonprofits and global public companies, most recently leading product teams at Oculus, Facebook Core Growth and as Director of Product at Lumosity. She is also a startup advisor, angel investor, and member of First Round’s
+Angel Track community
+.
+In my role leading product teams as a part of Facebook's
+New Product Experimentation
+, we’re focused on that hazy “0 to 1” stage of building, where ideas are unproven and products are in their most nascent stages. My job is to distill the complicated unknowns of a big, disruptive vision into clear, actionable steps for my teams and increase our chances of finding product-market fit at every step. This focus on taking big swings while still pursuing concrete steps toward building valuable products is the direct result of my previous experiences — I’ve felt the pain that comes from building products that fail to tackle a clear problem firsthand.
+Right after grad school at Stanford, I found myself in the middle of my first startup: a failing K-12 analytics company. We were on a mission to improve a broken education system with the promise of interesting technology. But we were stuck in circles of decision-making and couldn’t successfully execute or build traction. Looking back, it’s easy to diagnose that we had a hard time focusing on which problem to solve first because we didn’t understand
+
 - [The Founder Dating Playbook – Here’s the Process I Used to Find My Co-Founder](https://review.firstround.com/the-founder-dating-playbook-heres-the-process-i-used-to-find-my-co-founder/)
+
+> **摘要:** Loading the
+Elevenlabs Text to Speech
+AudioNative Player...
+Gloria Lin
+went on a lot of dates in 2019. No, not that kind. We’re talking about co-founder dating.
+As the first head of product at
+Flipboard
+and the first PM hire at
+Stripe
+, Lin’s seen founding teams in action — and knew what she was looking for as she set out to build a company of her own. “I always wanted to team up with someone. My experiences as a product leader were strongest when I was partnering closely with an engineering leader,” says Lin. “When I left to start a company, there were a few spaces I was interested in, but I didn’t have a specific startup idea so I set my sights on finding a strong co-founder to work with.”
+But she quickly found that was easier said than done. “Most of the co-founder stories I’d heard fell in this bucket of former co-workers pairing up to go after an idea. But it’s not that simple. You have to both want to do a startup — requiring similar levels of high-risk tolerance — and be available at the same time, which depends on life and financial circumstances. And once you step outside of that pool, it gets harder to meet someone,” says Lin. “I knew I didn’t want my search to be random or unfocused, so I honed my process and took my time.
+I ended up ‘dating’ six different potential co-founders over the course of a year
+. Just like real-life dating, sometimes it seemed like I was going to end up alone. Eventually, I met
+Joel Poloney
+and everything clicked. Now we’re working on
+Site
+
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
+- [Pricing Lessons from Working with 30+ Seed and Series A B2B Startups](https://review.firstround.com/pricing-lessons-from-working-with-30-seed-and-series-a-b2b-startups/)
+- [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 - [View all articles](https://review.firstround.com/articles/)
 - [Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like ConsumersNotes from an AI founder taking a swing at a hundred-billion-dollar incumbent.](https://review.firstround.com/servals-path-to-product-market-fit/)
 
