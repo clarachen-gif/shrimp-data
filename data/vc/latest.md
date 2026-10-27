@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-10-26
+# VC & Research Daily Fetch — 2026-10-27
 
 ## RSS Feeds (全文)
 
@@ -29,24 +29,6 @@ _无法获取或无内容_
 
 ### Greylock
 - [Newsletter signup](https://greylock.com/greymatter/newsletter/)
-
-> **摘要:** Newsletter Signup
-Subscribe to the Greylock newsletter
-Stay close to the ideas, founders, and technologies shaping what’s next. Subscribe to the Greylock newsletter for updates from the firm, insights from our team, and news from across the portfolio.
-Name
-This field is for validation purposes and should be left unchanged.
-First Name
-(Required)
-Last Name
-(Required)
-Title
-Company
-EMAIL ADDRESS
-(Required)
-LinkedIn
-Sign Up
-Stay close to the ideas, founders, and technologies shaping what’s next. Subscribe to the Greylock newsletter for updates from the firm, insights from our team, and news from across the portfolio.
-
 - [GreymatterRogue Agents: Deciphering Agent Intent](https://greylock.com/greymatter/blog/rogue-agents-deciphering-agent-intent/)
 - [GreymatterBreaking out of the God Box](https://greylock.com/greymatter/blog/breaking-out-of-the-god-box/)
 - [GreymatterRL in Real Life: Durable Moats](https://greylock.com/greymatter/blog/rl-in-real-life-durable-moats/)
@@ -273,6 +255,27 @@ Why old-school sales work still wins in the AI era | Graham Moreno (Head of GTM,
 Why founders should bet on first-time executives | Praveer Melwani (CFO, Figma)
 Why gre
 
+- [Clay’s Path to Product-Market Fit — A 7-Year 'Overnight Success'](https://review.firstround.com/clays-path-to-product-market-fit/)
+
+> **摘要:** In the earliest days of building, the founder
+is
+the company. Their fingerprints are pressed across every nook and cranny of the business — each decision, hire and product feature. Most early-stage investors will tell you (
+us included
+) that the strength of the founding team is the single most important factor in whether a business sinks or swims early on.
+While some might tout that it’s the tangible stats here that matter most (like the founder’s previous experiences),
+Clay
+co-founder
+Kareem Amin
+believes that it goes many layers deeper.
+“Your personality plays a major role in your success because building a company exaggerates all of your traits. You’re influencing how things get done — for better or for worse. So you need to be able to clearly see what is going on in the organization and how your personality is being amplified through this process,” Amin says.
+He sketches out an example: “You might be someone who pays a lot of attention to detail — which is great. You’re being super careful, you’re producing excellent work. But you’re also slowing down the team and the decision-making, and you might not be aware that it’s happening.”
+This heightened awareness is no doubt the product of Amin’s experiences as a
+second-time founder
+, giving him more foresight this time around into how
+founder psychology
+can be a buoy or an anchor. (His previous company, Frame, was acquired by Sailthru in 2012.)
+As investors in Clay since the very first round, we've seen Amin’s thoughtful app
+
 - [Build Products That Solve Real Problems With This Lightweight JTBD Framework](https://review.firstround.com/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework/)
 
 > **摘要:** This article is by
@@ -284,25 +287,6 @@ In my role leading product teams as a part of Facebook's
 New Product Experimentation
 , we’re focused on that hazy “0 to 1” stage of building, where ideas are unproven and products are in their most nascent stages. My job is to distill the complicated unknowns of a big, disruptive vision into clear, actionable steps for my teams and increase our chances of finding product-market fit at every step. This focus on taking big swings while still pursuing concrete steps toward building valuable products is the direct result of my previous experiences — I’ve felt the pain that comes from building products that fail to tackle a clear problem firsthand.
 Right after grad school at Stanford, I found myself in the middle of my first startup: a failing K-12 analytics company. We were on a mission to improve a broken education system with the promise of interesting technology. But we were stuck in circles of decision-making and couldn’t successfully execute or build traction. Looking back, it’s easy to diagnose that we had a hard time focusing on which problem to solve first because we didn’t understand
-
-- [The Founder Dating Playbook – Here’s the Process I Used to Find My Co-Founder](https://review.firstround.com/the-founder-dating-playbook-heres-the-process-i-used-to-find-my-co-founder/)
-
-> **摘要:** Loading the
-Elevenlabs Text to Speech
-AudioNative Player...
-Gloria Lin
-went on a lot of dates in 2019. No, not that kind. We’re talking about co-founder dating.
-As the first head of product at
-Flipboard
-and the first PM hire at
-Stripe
-, Lin’s seen founding teams in action — and knew what she was looking for as she set out to build a company of her own. “I always wanted to team up with someone. My experiences as a product leader were strongest when I was partnering closely with an engineering leader,” says Lin. “When I left to start a company, there were a few spaces I was interested in, but I didn’t have a specific startup idea so I set my sights on finding a strong co-founder to work with.”
-But she quickly found that was easier said than done. “Most of the co-founder stories I’d heard fell in this bucket of former co-workers pairing up to go after an idea. But it’s not that simple. You have to both want to do a startup — requiring similar levels of high-risk tolerance — and be available at the same time, which depends on life and financial circumstances. And once you step outside of that pool, it gets harder to meet someone,” says Lin. “I knew I didn’t want my search to be random or unfocused, so I honed my process and took my time.
-I ended up ‘dating’ six different potential co-founders over the course of a year
-. Just like real-life dating, sometimes it seemed like I was going to end up alone. Eventually, I met
-Joel Poloney
-and everything clicked. Now we’re working on
-Site
 
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
