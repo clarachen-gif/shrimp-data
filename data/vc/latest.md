@@ -1,19 +1,9 @@
-# VC & Research Daily Fetch — 2026-10-27
+# VC & Research Daily Fetch — 2026-10-28
 
 ## RSS Feeds (全文)
 
 ### Sequoia Capital
-
-**Partnering with Blacksmith**
-- Link: https://www.sequoiacap.com/article/partnering-with-blacksmith
-- Date: Wed, 21 Oct 2026 00:00:00 -0000
-- Author: Isaiah Boone and Carl Eschenbach
-
-
-**Partnering with Whop: Bet on Yourself**
-- Link: https://www.sequoiacap.com/article/partnering-with-whop
-- Date: Wed, 21 Oct 2026 00:00:00 -0000
-- Author: Doug Leone
+_今日无新文章_
 
 ### Elad Gil
 _今日无新文章_
