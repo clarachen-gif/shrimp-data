@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-10-28
+# VC & Research Daily Fetch — 2026-10-29
 
 ## RSS Feeds (全文)
 
@@ -179,6 +179,7 @@ Founder's Choice VC Leaderboard
 - [EarlyWorld’s First Successful Transplant of Genetically Engineered Porcine Kidney in a Living PatienteGenesisInvestment ThesisLearn More →](http://www.egenesisbio.com/)
 
 ### Index Ventures
+- [Asher, Aidan and BenFlapping Airplanes](https://www.indexventures.com/perspectives/perspectives/catching-up-with-ben-spector-ceo-and-co-founder-of-flapping-airplanes/)
 - [Scott MortonRevel](https://www.indexventures.com/perspectives/perspectives/scott-morton-revel/)
 - [Joon Sung ParkSimile](https://www.indexventures.com/perspectives/perspectives/simulating-society-at-scale-our-investment-in-similes-200m-series-b/)
 - [Lin QiaoFireworks](https://www.indexventures.com/perspectives/perspectives/candid-with-index-in-conversation-with-fireworks-lin-qiao/)
@@ -186,7 +187,6 @@ Founder's Choice VC Leaderboard
 - [Julie BornsteinDaydream](https://www.indexventures.com/perspectives/perspectives/julie-bornsteins-mission-to-reinvent-shopping/)
 - [Aaron KatzClickHouse](https://www.indexventures.com/perspectives/perspectives/aaron-katzs-journey-from-salesforce-to-clickhouse/)
 - [Vlad TenevRobinhood](https://www.indexventures.com/perspectives/perspectives/trade-winds-the-rise-reckoning-and-reimagining-of-vlad-tenev/)
-- [Assaf RappaportWiz](https://www.indexventures.com/perspectives/perspectives/candid-with-index-in-conversation-with-wizs-assaf-rappaport/)
 
 ### First Round Review
 - [-Executive Function](https://review.firstround.com/executive-function/)
@@ -266,17 +266,26 @@ founder psychology
 can be a buoy or an anchor. (His previous company, Frame, was acquired by Sailthru in 2012.)
 As investors in Clay since the very first round, we've seen Amin’s thoughtful app
 
-- [Build Products That Solve Real Problems With This Lightweight JTBD Framework](https://review.firstround.com/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework/)
+- [This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency](https://review.firstround.com/this-founder-built-startups-in-2008-2016-and-2018-heres-what-hes-learned-about-resiliency/)
 
-> **摘要:** This article is by
-Sunita Mohanty
-, who is a Product Lead as a part of Facebook's New Product Experimentation. She has built products for startups, nonprofits and global public companies, most recently leading product teams at Oculus, Facebook Core Growth and as Director of Product at Lumosity. She is also a startup advisor, angel investor, and member of First Round’s
-Angel Track community
+> **摘要:** On a rainy September day back in 2008,
+Bob Moore
+took the plunge. He and his coworker
+Jake Stein
+quit their day jobs to start
+RJMetrics
+, a new company in the data analytics space. While their prospects seemed bright, their timing could have been better — three days later, Lehman Brothers collapsed.
+Their startup set out on a journey with just about everything working against it: inexperienced first-time founders, a crushing economic environment and a big bet on where the industry was heading. The path was twisty and full of challenges, but by 2016 the duo had amassed hundreds of customers and RJMetrics was scooped up by
+Magento
 .
-In my role leading product teams as a part of Facebook's
-New Product Experimentation
-, we’re focused on that hazy “0 to 1” stage of building, where ideas are unproven and products are in their most nascent stages. My job is to distill the complicated unknowns of a big, disruptive vision into clear, actionable steps for my teams and increase our chances of finding product-market fit at every step. This focus on taking big swings while still pursuing concrete steps toward building valuable products is the direct result of my previous experiences — I’ve felt the pain that comes from building products that fail to tackle a clear problem firsthand.
-Right after grad school at Stanford, I found myself in the middle of my first startup: a failing K-12 analytics company. We were on a mission to improve a broken education system with the promise of interesting technology. But we were stuck in circles of decision-making and couldn’t successfully execute or build traction. Looking back, it’s easy to diagnose that we had a hard time focusing on which problem to solve first because we didn’t understand
+“But as exits go, it was more of a base hit than a home run,” says Moore. “The most valuable thing we took away from RJMetrics was the muscle of how to fight hard and the painful lessons that came from surviving a turbulent environment — only to later lose the long game. Take our old competitor
+Looker, which got acquired by Google
+last summer for $2.6 billion. They ate our lunch, even though we had a four-year head start.” (For more of the nitty-gritty details on where things went south in their battle against Looker, check out Moore’s
+excellent post-mortem post
+from a few months back.)
+That’s a mistake Moore vowed not to make again. Equipped with a sharper vision and nearly a decade of experience, he and Stein spun off their second company,
+Stitch
+, using technology they retained in the RJMetrics acquisition. In just two years, they netted a far be
 
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
