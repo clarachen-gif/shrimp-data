@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-10-30
+# VC & Research Daily Fetch — 2026-10-31
 
 ## RSS Feeds (全文)
 
@@ -245,26 +245,22 @@ Why old-school sales work still wins in the AI era | Graham Moreno (Head of GTM,
 Why founders should bet on first-time executives | Praveer Melwani (CFO, Figma)
 Why gre
 
-- [Clay’s Path to Product-Market Fit — A 7-Year 'Overnight Success'](https://review.firstround.com/clays-path-to-product-market-fit/)
+- [How to be an Exceptional Chief of Staff: Advice for Scaling Impact at Startups](https://review.firstround.com/how-to-be-an-exceptional-chief-of-staff-advice-for-scaling-impact-at-startups/)
 
-> **摘要:** In the earliest days of building, the founder
-is
-the company. Their fingerprints are pressed across every nook and cranny of the business — each decision, hire and product feature. Most early-stage investors will tell you (
-us included
-) that the strength of the founding team is the single most important factor in whether a business sinks or swims early on.
-While some might tout that it’s the tangible stats here that matter most (like the founder’s previous experiences),
-Clay
-co-founder
-Kareem Amin
-believes that it goes many layers deeper.
-“Your personality plays a major role in your success because building a company exaggerates all of your traits. You’re influencing how things get done — for better or for worse. So you need to be able to clearly see what is going on in the organization and how your personality is being amplified through this process,” Amin says.
-He sketches out an example: “You might be someone who pays a lot of attention to detail — which is great. You’re being super careful, you’re producing excellent work. But you’re also slowing down the team and the decision-making, and you might not be aware that it’s happening.”
-This heightened awareness is no doubt the product of Amin’s experiences as a
-second-time founder
-, giving him more foresight this time around into how
-founder psychology
-can be a buoy or an anchor. (His previous company, Frame, was acquired by Sailthru in 2012.)
-As investors in Clay since the very first round, we've seen Amin’s thoughtful app
+> **摘要:** This article is written by
+Sonja Manning
+, who is Chief of Staff at Levels.
+My first exposure to a Chief of Staff was Leo McGarry on “The West Wing.” And while watching Leo navigate the political machinations of President Bartlet’s Oval Office was entertaining television, his day-to-day role was of little use to me in prepping for my own role as Chief of Staff at a tech startup.
+Put simply, a Chief of Staff’s primary directive is to make a leader more effective — prioritizing precious time, optimizing workflows, and even driving strategic projects. But how this slightly fuzzy mission is executed can vary widely from company to company based on size, stage and industry — and even two Chiefs of Staff in the same org can have very different roles, depending on the needs of the executive they work closest with. And if your company also has executive assistants on board, there’s an added layer of confusion about how to differentiate the two distinct roles.
+In other words,
+part of the job of a Chief of Staff is figuring out the job itself
+.
+I joined Levels as its first Chief of Staff, reporting to co-founder and Chief Medical Officer
+Dr. Casey Means
+. To set the scene,
+Levels
+is a Series A company focused on reversing the metabolic disease epidemic by empowering people to understand their health with biosensors and closed-loop feedback. Casey operates as the external face of the company in media (having been a guest on over 200 podcasts — for more on the Levels podcast strategy,
+ch
 
 - [This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency](https://review.firstround.com/this-founder-built-startups-in-2008-2016-and-2018-heres-what-hes-learned-about-resiliency/)
 
