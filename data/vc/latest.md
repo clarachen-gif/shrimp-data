@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-10-31
+# VC & Research Daily Fetch — 2026-11-01
 
 ## RSS Feeds (全文)
 
