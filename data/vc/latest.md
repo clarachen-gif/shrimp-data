@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-11-01
+# VC & Research Daily Fetch — 2026-11-02
 
 ## RSS Feeds (全文)
 
@@ -262,30 +262,38 @@ Levels
 is a Series A company focused on reversing the metabolic disease epidemic by empowering people to understand their health with biosensors and closed-loop feedback. Casey operates as the external face of the company in media (having been a guest on over 200 podcasts — for more on the Levels podcast strategy,
 ch
 
-- [This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency](https://review.firstround.com/this-founder-built-startups-in-2008-2016-and-2018-heres-what-hes-learned-about-resiliency/)
-
-> **摘要:** On a rainy September day back in 2008,
-Bob Moore
-took the plunge. He and his coworker
-Jake Stein
-quit their day jobs to start
-RJMetrics
-, a new company in the data analytics space. While their prospects seemed bright, their timing could have been better — three days later, Lehman Brothers collapsed.
-Their startup set out on a journey with just about everything working against it: inexperienced first-time founders, a crushing economic environment and a big bet on where the industry was heading. The path was twisty and full of challenges, but by 2016 the duo had amassed hundreds of customers and RJMetrics was scooped up by
-Magento
-.
-“But as exits go, it was more of a base hit than a home run,” says Moore. “The most valuable thing we took away from RJMetrics was the muscle of how to fight hard and the painful lessons that came from surviving a turbulent environment — only to later lose the long game. Take our old competitor
-Looker, which got acquired by Google
-last summer for $2.6 billion. They ate our lunch, even though we had a four-year head start.” (For more of the nitty-gritty details on where things went south in their battle against Looker, check out Moore’s
-excellent post-mortem post
-from a few months back.)
-That’s a mistake Moore vowed not to make again. Equipped with a sharper vision and nearly a decade of experience, he and Stein spun off their second company,
-Stitch
-, using technology they retained in the RJMetrics acquisition. In just two years, they netted a far be
-
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
+
+> **摘要:** Loading the
+Elevenlabs Text to Speech
+AudioNative Player...
+This article is by
+Rahul Vohra
+, the founder and CEO of
+Superhuman
+— a startup building the fastest email experience in the world.
+We’ve all heard that product-market fit drives startup success — and that the lack thereof is what’s lurking behind almost every failure.
+For founders, achieving product-market fit is an obsession from day one. It’s both the hefty hurdle we’re racing to clear and the festering fear keeping us up at night, worried that we’ll never make it. But when it comes to understanding what product-market fit
+really
+is and
+how
+to get there, most of us quickly realize that there isn’t a battle-tested approach.
+In the summer of 2017, I was waist-deep in my search for a way to find product-market fit for my startup,
+Superhuman
+. Turning to the classic blog posts and seminal thought pieces, a few observations stuck out to me. Y Combinator founder Paul Graham described product-market fit as when you’ve
+made something that people want
+, while Sam Altman
+characterized
+it as when users spontaneously tell other people to use your product. But of course, the most cited description comes from this passage in Marc Andreessen’s 2007
+blog post
+:
+“You can always feel when product-market fit is
+not
+happening. The customers aren't quite getting value out of the product, word of mouth isn't spreading, usage isn't growing that fast, press reviews are kind of ‘blah,’ the sales cycle takes too long, and lots of deals neve
+
 - [Pricing Lessons from Working with 30+ Seed and Series A B2B Startups](https://review.firstround.com/pricing-lessons-from-working-with-30-seed-and-series-a-b2b-startups/)
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
+- [‘Give Away Your Legos’ and Other Commandments for Scaling Startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups/)
 - [View all articles](https://review.firstround.com/articles/)
 - [Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like ConsumersNotes from an AI founder taking a swing at a hundred-billion-dollar incumbent.](https://review.firstround.com/servals-path-to-product-market-fit/)
 
