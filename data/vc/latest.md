@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-11-02
+# VC & Research Daily Fetch — 2026-11-03
 
 ## RSS Feeds (全文)
 
@@ -262,38 +262,27 @@ Levels
 is a Series A company focused on reversing the metabolic disease epidemic by empowering people to understand their health with biosensors and closed-loop feedback. Casey operates as the external face of the company in media (having been a guest on over 200 podcasts — for more on the Levels podcast strategy,
 ch
 
-- [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
+- [A Tactical Guide to Managing Up: 30 Tips from the Smartest People We Know](https://review.firstround.com/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know/)
 
 > **摘要:** Loading the
 Elevenlabs Text to Speech
 AudioNative Player...
-This article is by
-Rahul Vohra
-, the founder and CEO of
-Superhuman
-— a startup building the fastest email experience in the world.
-We’ve all heard that product-market fit drives startup success — and that the lack thereof is what’s lurking behind almost every failure.
-For founders, achieving product-market fit is an obsession from day one. It’s both the hefty hurdle we’re racing to clear and the festering fear keeping us up at night, worried that we’ll never make it. But when it comes to understanding what product-market fit
-really
-is and
-how
-to get there, most of us quickly realize that there isn’t a battle-tested approach.
-In the summer of 2017, I was waist-deep in my search for a way to find product-market fit for my startup,
-Superhuman
-. Turning to the classic blog posts and seminal thought pieces, a few observations stuck out to me. Y Combinator founder Paul Graham described product-market fit as when you’ve
-made something that people want
-, while Sam Altman
-characterized
-it as when users spontaneously tell other people to use your product. But of course, the most cited description comes from this passage in Marc Andreessen’s 2007
-blog post
-:
-“You can always feel when product-market fit is
-not
-happening. The customers aren't quite getting value out of the product, word of mouth isn't spreading, usage isn't growing that fast, press reviews are kind of ‘blah,’ the sales cycle takes too long, and lots of deals neve
+There’s an oft-repeated phrase: “People don’t quit a job, they quit a boss.” Certainly if you want to go the manager route, it’s critical to
+become a trusted captain
+in order to retain a top crew. But foisting all the blame onto bad bosses when these pairings go awry is also an oversimplification — one that takes agency away from the employee.
+Like any relationship, that of the manager and their report is a two-way street, and the task of navigating the often bumpy road along a startup’s course falls on both parties. There are those managers who you instantly click with, falling into an easy rhythm as though you’ve worked together for years. Others duos may seem like you’re trying to force two repelling magnets together. But more likely, your relationship with your boss falls somewhere in between these two extremes.
+Whether
+you’re taking on your first direct report
+or you’re a
+seasoned leader looking to sharpen your skills
+, there’s plenty of advice to go around when it comes to managers. But when the focus shifts to those who are being
+managed
+, many of those concrete tactics and strategies get decidedly less detailed. While it’s universally understood that building a good relationship with your manager takes work — even if you take to each other like a duck to water — the prescription for how to do so often fails to pack a punch.
+That’s in part because managing up is a rather amorphous category, encompassing everyt
 
-- [Pricing Lessons from Working with 30+ Seed and Series A B2B Startups](https://review.firstround.com/pricing-lessons-from-working-with-30-seed-and-series-a-b2b-startups/)
+- [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite](https://review.firstround.com/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite/)
+- [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
-- [‘Give Away Your Legos’ and Other Commandments for Scaling Startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups/)
 - [View all articles](https://review.firstround.com/articles/)
 - [Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like ConsumersNotes from an AI founder taking a swing at a hundred-billion-dollar incumbent.](https://review.firstround.com/servals-path-to-product-market-fit/)
 
