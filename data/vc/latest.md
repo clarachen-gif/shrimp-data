@@ -1,9 +1,13 @@
-# VC & Research Daily Fetch — 2026-11-03
+# VC & Research Daily Fetch — 2026-11-04
 
 ## RSS Feeds (全文)
 
 ### Sequoia Capital
-_今日无新文章_
+
+**Cresta: From Stanford Research to AI at Work**
+- Link: https://www.sequoiacap.com/article/cresta-from-stanford-research-to-ai-at-work
+- Date: Tue, 03 Nov 2026 00:00:00 -0000
+- Author: Doug Leone and Carl Eschenbach
 
 ### Elad Gil
 _今日无新文章_
