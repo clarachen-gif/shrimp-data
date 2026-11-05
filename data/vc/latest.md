@@ -1,8 +1,14 @@
-# VC & Research Daily Fetch — 2026-11-04
+# VC & Research Daily Fetch — 2026-11-05
 
 ## RSS Feeds (全文)
 
 ### Sequoia Capital
+
+**Partnering with Edelbyte: Data Infrastructure That Keeps Up With AI's Curiosity**
+- Link: https://www.sequoiacap.com/article/partnering-with-edelbyte-data-infrastructure-that-keeps-up-with-ai-s-curiosity
+- Date: Wed, 11 Nov 2026 00:00:00 -0000
+- Author: Bogomil Balkansky and Dean Meyer
+
 
 **Cresta: From Stanford Research to AI at Work**
 - Link: https://www.sequoiacap.com/article/cresta-from-stanford-research-to-ai-at-work
@@ -249,43 +255,45 @@ Why old-school sales work still wins in the AI era | Graham Moreno (Head of GTM,
 Why founders should bet on first-time executives | Praveer Melwani (CFO, Figma)
 Why gre
 
-- [How to be an Exceptional Chief of Staff: Advice for Scaling Impact at Startups](https://review.firstround.com/how-to-be-an-exceptional-chief-of-staff-advice-for-scaling-impact-at-startups/)
+- [Better Meetings Make for Better Days — 20 Tactical Ideas to Try Out With Your Team](https://review.firstround.com/better-meetings-make-for-better-days-20-tactical-ideas-to-try-out-with-your-team/)
 
-> **摘要:** This article is written by
-Sonja Manning
-, who is Chief of Staff at Levels.
-My first exposure to a Chief of Staff was Leo McGarry on “The West Wing.” And while watching Leo navigate the political machinations of President Bartlet’s Oval Office was entertaining television, his day-to-day role was of little use to me in prepping for my own role as Chief of Staff at a tech startup.
-Put simply, a Chief of Staff’s primary directive is to make a leader more effective — prioritizing precious time, optimizing workflows, and even driving strategic projects. But how this slightly fuzzy mission is executed can vary widely from company to company based on size, stage and industry — and even two Chiefs of Staff in the same org can have very different roles, depending on the needs of the executive they work closest with. And if your company also has executive assistants on board, there’s an added layer of confusion about how to differentiate the two distinct roles.
-In other words,
-part of the job of a Chief of Staff is figuring out the job itself
+> **摘要:** “With the shift to remote work, most of the interpersonal interactions you have day-to-day are through Slack, email, Google Docs, and Zoom meetings. So it's very possible that for many employees, their only face-to-face human interaction for the day is through a meeting. If that meeting is good, then their day is good. If that meeting is bad, then their day is bad.”
+We’ve been mulling over this point ever since
+HashiCorp
+’s
+Kevin Fishner
+brought it up when he
+stopped by our podcast
+earlier this year. Even as some folks are returning back to a physical workspace, this sentiment is still more resonant than ever. Whether they're in person or video conferencing, it’s hard to overstate the impact meetings have on an employee’s day-to-day experience at a startup — and yet lately, many of us seem to be having more bad meetings that are adding up to more bad days.
+Whether it’s quips on Twitter about the endless slog of back-to-back Zoom meetings, or well-worn one-liners such as “This could have been an email,” you would be hard-pressed to find another component of the workday that bears the brunt of more jokes, complaints and general discontent. (
+This recent example
+from Salesforce’s Bret Taylor is a worthy entry into the canon.)
+To help you make more progress toward the elusive goal of running more effective team meetings that don't sap energy or waste time, we’ve combed through our archives to resurface best practices from some of the smartest leaders we've ever interviewed.
+Some 
+
+- [This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency](https://review.firstround.com/this-founder-built-startups-in-2008-2016-and-2018-heres-what-hes-learned-about-resiliency/)
+
+> **摘要:** On a rainy September day back in 2008,
+Bob Moore
+took the plunge. He and his coworker
+Jake Stein
+quit their day jobs to start
+RJMetrics
+, a new company in the data analytics space. While their prospects seemed bright, their timing could have been better — three days later, Lehman Brothers collapsed.
+Their startup set out on a journey with just about everything working against it: inexperienced first-time founders, a crushing economic environment and a big bet on where the industry was heading. The path was twisty and full of challenges, but by 2016 the duo had amassed hundreds of customers and RJMetrics was scooped up by
+Magento
 .
-I joined Levels as its first Chief of Staff, reporting to co-founder and Chief Medical Officer
-Dr. Casey Means
-. To set the scene,
-Levels
-is a Series A company focused on reversing the metabolic disease epidemic by empowering people to understand their health with biosensors and closed-loop feedback. Casey operates as the external face of the company in media (having been a guest on over 200 podcasts — for more on the Levels podcast strategy,
-ch
+“But as exits go, it was more of a base hit than a home run,” says Moore. “The most valuable thing we took away from RJMetrics was the muscle of how to fight hard and the painful lessons that came from surviving a turbulent environment — only to later lose the long game. Take our old competitor
+Looker, which got acquired by Google
+last summer for $2.6 billion. They ate our lunch, even though we had a four-year head start.” (For more of the nitty-gritty details on where things went south in their battle against Looker, check out Moore’s
+excellent post-mortem post
+from a few months back.)
+That’s a mistake Moore vowed not to make again. Equipped with a sharper vision and nearly a decade of experience, he and Stein spun off their second company,
+Stitch
+, using technology they retained in the RJMetrics acquisition. In just two years, they netted a far be
 
-- [A Tactical Guide to Managing Up: 30 Tips from the Smartest People We Know](https://review.firstround.com/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know/)
-
-> **摘要:** Loading the
-Elevenlabs Text to Speech
-AudioNative Player...
-There’s an oft-repeated phrase: “People don’t quit a job, they quit a boss.” Certainly if you want to go the manager route, it’s critical to
-become a trusted captain
-in order to retain a top crew. But foisting all the blame onto bad bosses when these pairings go awry is also an oversimplification — one that takes agency away from the employee.
-Like any relationship, that of the manager and their report is a two-way street, and the task of navigating the often bumpy road along a startup’s course falls on both parties. There are those managers who you instantly click with, falling into an easy rhythm as though you’ve worked together for years. Others duos may seem like you’re trying to force two repelling magnets together. But more likely, your relationship with your boss falls somewhere in between these two extremes.
-Whether
-you’re taking on your first direct report
-or you’re a
-seasoned leader looking to sharpen your skills
-, there’s plenty of advice to go around when it comes to managers. But when the focus shifts to those who are being
-managed
-, many of those concrete tactics and strategies get decidedly less detailed. While it’s universally understood that building a good relationship with your manager takes work — even if you take to each other like a duck to water — the prescription for how to do so often fails to pack a punch.
-That’s in part because managing up is a rather amorphous category, encompassing everyt
-
-- [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite](https://review.firstround.com/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite/)
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
+- [Pricing Lessons from Working with 30+ Seed and Series A B2B Startups](https://review.firstround.com/pricing-lessons-from-working-with-30-seed-and-series-a-b2b-startups/)
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 - [View all articles](https://review.firstround.com/articles/)
 - [Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like ConsumersNotes from an AI founder taking a swing at a hundred-billion-dollar incumbent.](https://review.firstround.com/servals-path-to-product-market-fit/)
