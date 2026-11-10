@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-11-09
+# VC & Research Daily Fetch — 2026-11-10
 
 ## RSS Feeds (全文)
 
@@ -8,12 +8,6 @@
 - Link: https://www.sequoiacap.com/article/partnering-with-edelbyte-data-infrastructure-that-keeps-up-with-ai-s-curiosity
 - Date: Wed, 11 Nov 2026 00:00:00 -0000
 - Author: Bogomil Balkansky and Dean Meyer
-
-
-**Cresta: From Stanford Research to AI at Work**
-- Link: https://www.sequoiacap.com/article/cresta-from-stanford-research-to-ai-at-work
-- Date: Tue, 03 Nov 2026 00:00:00 -0000
-- Author: Doug Leone and Carl Eschenbach
 
 ### Elad Gil
 _今日无新文章_
@@ -255,22 +249,6 @@ Why old-school sales work still wins in the AI era | Graham Moreno (Head of GTM,
 Why founders should bet on first-time executives | Praveer Melwani (CFO, Figma)
 Why gre
 
-- [Better Meetings Make for Better Days — 20 Tactical Ideas to Try Out With Your Team](https://review.firstround.com/better-meetings-make-for-better-days-20-tactical-ideas-to-try-out-with-your-team/)
-
-> **摘要:** “With the shift to remote work, most of the interpersonal interactions you have day-to-day are through Slack, email, Google Docs, and Zoom meetings. So it's very possible that for many employees, their only face-to-face human interaction for the day is through a meeting. If that meeting is good, then their day is good. If that meeting is bad, then their day is bad.”
-We’ve been mulling over this point ever since
-HashiCorp
-’s
-Kevin Fishner
-brought it up when he
-stopped by our podcast
-earlier this year. Even as some folks are returning back to a physical workspace, this sentiment is still more resonant than ever. Whether they're in person or video conferencing, it’s hard to overstate the impact meetings have on an employee’s day-to-day experience at a startup — and yet lately, many of us seem to be having more bad meetings that are adding up to more bad days.
-Whether it’s quips on Twitter about the endless slog of back-to-back Zoom meetings, or well-worn one-liners such as “This could have been an email,” you would be hard-pressed to find another component of the workday that bears the brunt of more jokes, complaints and general discontent. (
-This recent example
-from Salesforce’s Bret Taylor is a worthy entry into the canon.)
-To help you make more progress toward the elusive goal of running more effective team meetings that don't sap energy or waste time, we’ve combed through our archives to resurface best practices from some of the smartest leaders we've ever interviewed.
-Some 
-
 - [This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency](https://review.firstround.com/this-founder-built-startups-in-2008-2016-and-2018-heres-what-hes-learned-about-resiliency/)
 
 > **摘要:** On a rainy September day back in 2008,
@@ -293,8 +271,37 @@ Stitch
 , using technology they retained in the RJMetrics acquisition. In just two years, they netted a far be
 
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
+
+> **摘要:** Loading the
+Elevenlabs Text to Speech
+AudioNative Player...
+This article is by
+Rahul Vohra
+, the founder and CEO of
+Superhuman
+— a startup building the fastest email experience in the world.
+We’ve all heard that product-market fit drives startup success — and that the lack thereof is what’s lurking behind almost every failure.
+For founders, achieving product-market fit is an obsession from day one. It’s both the hefty hurdle we’re racing to clear and the festering fear keeping us up at night, worried that we’ll never make it. But when it comes to understanding what product-market fit
+really
+is and
+how
+to get there, most of us quickly realize that there isn’t a battle-tested approach.
+In the summer of 2017, I was waist-deep in my search for a way to find product-market fit for my startup,
+Superhuman
+. Turning to the classic blog posts and seminal thought pieces, a few observations stuck out to me. Y Combinator founder Paul Graham described product-market fit as when you’ve
+made something that people want
+, while Sam Altman
+characterized
+it as when users spontaneously tell other people to use your product. But of course, the most cited description comes from this passage in Marc Andreessen’s 2007
+blog post
+:
+“You can always feel when product-market fit is
+not
+happening. The customers aren't quite getting value out of the product, word of mouth isn't spreading, usage isn't growing that fast, press reviews are kind of ‘blah,’ the sales cycle takes too long, and lots of deals neve
+
 - [Pricing Lessons from Working with 30+ Seed and Series A B2B Startups](https://review.firstround.com/pricing-lessons-from-working-with-30-seed-and-series-a-b2b-startups/)
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
+- [‘Give Away Your Legos’ and Other Commandments for Scaling Startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups/)
 - [View all articles](https://review.firstround.com/articles/)
 - [Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like ConsumersNotes from an AI founder taking a swing at a hundred-billion-dollar incumbent.](https://review.firstround.com/servals-path-to-product-market-fit/)
 
