@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-11-11
+# VC & Research Daily Fetch — 2026-11-12
 
 ## RSS Feeds (全文)
 
@@ -387,32 +387,11 @@ We are now in a radically different macroeconomic environment—one that poses u
 Artificial Intelligence
 Since the development of our first investment systems decades ago, Bridgewater has been at the forefront of using technology to go beyond human capabilities. Today, we are in the midst of a once-in-a-generation technological disruption, unfolding alongside profound shifts in the macroeconomic and geopolitical landscape. Artificial intelligence is already influencing markets and
 
-- [Working at Bridgewater](https://www.bridgewater.com/working-at-bridgewater)
+- [Working At Bridgewater](https://www.bridgewater.com/working-at-bridgewater)
 
-> **摘要:** Working at Bridgewater
-Tony Luong
-Spotlight on Investment
-Spotlight on Investment
-Our investment team seeks to understand the fundamental drivers of markets and turns that understanding into high quality portfolios and investment insight for our clients.
-Learn More
-Spotlight on Technologists
-Spotlight on Technologists
-Join the team that systematizes and scales our understanding of the world's markets and economies.
-Learn More
-Students
-Students
-Learn more about our investment internship opportunities and programs designed to provide real and meaningful exposure to Bridgewater’s fundamental and systematic investment process.
-Learn More
-All Job Openings
-Expand all job categories
-Diversity & Inclusion
-Diversity & Inclusion
-Diversity and inclusion are part of building an idea meritocracy
-Learn More
-FAQs
-FAQs
-Answers to common questions we receive from prospective employees
-Learn More
+> **摘要:** The Candidate
+Relentless, obsessively curious minds.
+We are looking for thinkers drawn to the hardest problems at the intersection of markets, macroeconomics, AI science, and technology. Those who learn rapidly, at the cutting edge, and help others do the same, quickly earn greater responsibility.
 
 - [SFDR Disclosures](https://www.bridgewater.com/sustainable-finance-disclosure-regulation-disclosures)
 - [Quebec Complaint Policy](https://www.bridgewater.com/_document/quebec-complaint-policy?id=00000197-f98d-df27-afd7-f9bd52700000)
