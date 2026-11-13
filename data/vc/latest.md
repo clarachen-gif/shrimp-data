@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-11-12
+# VC & Research Daily Fetch — 2026-11-13
 
 ## RSS Feeds (全文)
 
@@ -270,36 +270,26 @@ That’s a mistake Moore vowed not to make again. Equipped with a sharper vision
 Stitch
 , using technology they retained in the RJMetrics acquisition. In just two years, they netted a far be
 
-- [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
+- [The Founder Dating Playbook – Here’s the Process I Used to Find My Co-Founder](https://review.firstround.com/the-founder-dating-playbook-heres-the-process-i-used-to-find-my-co-founder/)
 
 > **摘要:** Loading the
 Elevenlabs Text to Speech
 AudioNative Player...
-This article is by
-Rahul Vohra
-, the founder and CEO of
-Superhuman
-— a startup building the fastest email experience in the world.
-We’ve all heard that product-market fit drives startup success — and that the lack thereof is what’s lurking behind almost every failure.
-For founders, achieving product-market fit is an obsession from day one. It’s both the hefty hurdle we’re racing to clear and the festering fear keeping us up at night, worried that we’ll never make it. But when it comes to understanding what product-market fit
-really
-is and
-how
-to get there, most of us quickly realize that there isn’t a battle-tested approach.
-In the summer of 2017, I was waist-deep in my search for a way to find product-market fit for my startup,
-Superhuman
-. Turning to the classic blog posts and seminal thought pieces, a few observations stuck out to me. Y Combinator founder Paul Graham described product-market fit as when you’ve
-made something that people want
-, while Sam Altman
-characterized
-it as when users spontaneously tell other people to use your product. But of course, the most cited description comes from this passage in Marc Andreessen’s 2007
-blog post
-:
-“You can always feel when product-market fit is
-not
-happening. The customers aren't quite getting value out of the product, word of mouth isn't spreading, usage isn't growing that fast, press reviews are kind of ‘blah,’ the sales cycle takes too long, and lots of deals neve
+Gloria Lin
+went on a lot of dates in 2019. No, not that kind. We’re talking about co-founder dating.
+As the first head of product at
+Flipboard
+and the first PM hire at
+Stripe
+, Lin’s seen founding teams in action — and knew what she was looking for as she set out to build a company of her own. “I always wanted to team up with someone. My experiences as a product leader were strongest when I was partnering closely with an engineering leader,” says Lin. “When I left to start a company, there were a few spaces I was interested in, but I didn’t have a specific startup idea so I set my sights on finding a strong co-founder to work with.”
+But she quickly found that was easier said than done. “Most of the co-founder stories I’d heard fell in this bucket of former co-workers pairing up to go after an idea. But it’s not that simple. You have to both want to do a startup — requiring similar levels of high-risk tolerance — and be available at the same time, which depends on life and financial circumstances. And once you step outside of that pool, it gets harder to meet someone,” says Lin. “I knew I didn’t want my search to be random or unfocused, so I honed my process and took my time.
+I ended up ‘dating’ six different potential co-founders over the course of a year
+. Just like real-life dating, sometimes it seemed like I was going to end up alone. Eventually, I met
+Joel Poloney
+and everything clicked. Now we’re working on
+Site
 
-- [Pricing Lessons from Working with 30+ Seed and Series A B2B Startups](https://review.firstround.com/pricing-lessons-from-working-with-30-seed-and-series-a-b2b-startups/)
+- [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 - [‘Give Away Your Legos’ and Other Commandments for Scaling Startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups/)
 - [View all articles](https://review.firstround.com/articles/)
