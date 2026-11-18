@@ -1,13 +1,9 @@
-# VC & Research Daily Fetch — 2026-11-17
+# VC & Research Daily Fetch — 2026-11-18
 
 ## RSS Feeds (全文)
 
 ### Sequoia Capital
-
-**Partnering with Edelbyte: Data Infrastructure That Keeps Up With AI's Curiosity**
-- Link: https://www.sequoiacap.com/article/partnering-with-edelbyte-data-infrastructure-that-keeps-up-with-ai-s-curiosity
-- Date: Wed, 11 Nov 2026 00:00:00 -0000
-- Author: Bogomil Balkansky and Dean Meyer
+_今日无新文章_
 
 ### Elad Gil
 _今日无新文章_
@@ -47,11 +43,12 @@ arrow-left
 Next slide
 close
 Series A
-The leading AI writing platform for teams
-May Habib is challenging a $13B incumbent
-Series A / ScaleUp:AI Partner
-SAN FRANCISCO, CA
-Read Full Article
+Insight Led
+Enterprise AI
+An AI operating system for the enterprise
+Series A / Series B / Series C
+Tel Aviv, Israel
+Read More
 close
 Series A
 Definitive Agreement
@@ -61,6 +58,45 @@ Series A / Series C / Acq. Agreement
 Palo Alto, California
 Read More
 close
+Series C
+AI SOFTWARE ENGINEERING
+Agent-Native Software Development
+Series C
+San Francisco, CA
+Read More
+close
+Series H
+Insight Led
+DATA & AI
+Crossing $4B in Revenue Run-Rate
+Series H / Series J / Growth
+San Francisco, CA
+Read More
+close
+Series A
+Insight Led
+AI AGENT INFRASTRUCTURE
+Cloud infrastructure for AI agents
+Series A
+San Francisco, CA
+Read More
+close
+Series F
+IPPE
+FRONTIER AI
+The Company Behind Claude
+Series F / Series G / Series H
+San Francisco, CA
+Read More
+close
+Series A
+Insight Led
+D2C E-COMMERCE
+Luxury Quality, Without the Markup
+Series A / Series B / Series C
+San Francisco, CA
+Read More
+close
 Private Round
 Definitive Agreement
 Healthcare
@@ -68,54 +104,33 @@ Digital Innovation in Science
 Private Round / Acq. Agreement
 Boston, MA
 close
-Series A
-CrewAI is a leading AI multi-agent platform
-Behind the Investment: meet João Moura
-Series A / ScaleUp:AI Partner
-New York, NY
-Read Full Article
-close
-Series B
-IPO
-Business Operations
-Rebranding Monday.com
-A New Channel Partner Program
-From Growth to IPO
-Series B / Series C / Series D / IPO
-Tel Aviv, Israel
-ScaleUp: monday.com
-close
-Series B
-Acquired
-Fintech
-Transforming Corporate Expense Tracking
-Scaling Operations
-Acquisition by Bill.com
-Series B / Series C / Series D / Acquired
-Draper, UT
-close
-Series A
 Series C
-Healthtech
-First Mental Health Unicorn
-Series A / Series B / Series C
+Insight Led
+FINANCE & ACCOUNTING
+AI Agents for Global Tax Compliance
+Series C
 San Francisco, CA
+Read More
 close
-Series C
-Acquired
-Driving Digital Innovation in the Circular Economy
-Unifying Sales and Marketing
-Expanding Through Strategic Acquisitions
-Transitioning to a SaaS Model
-Series C / Series D / Acquisition
-Limerick, Ireland
+Series B
+Insight Led
+FINANCIAL SERVICES
+Giving Advisors Their Time Back
+Series B
+Draper, Utah
+Read More
 close
-Series C
-Acquired
-Enterprise Architecture
-Accelerating Sales Growth
-Building the A-Team
-Channel Partner
+Series
+Insight Led
+HEALTHCARE
+Faster Decisions in Post-Acute Care
+Series A
+New York, NY
+Read More
+close
+Series B
+Insight Led
+DEVELOPE
 
 - [ScaleUp Reports](https://www.insightpartners.com/ideas/search?topic=business-benchmarks)
 - [Industry Insights](https://www.insightpartners.com/ideas/search?topic=industry-insights)
@@ -270,28 +285,35 @@ That’s a mistake Moore vowed not to make again. Equipped with a sharper vision
 Stitch
 , using technology they retained in the RJMetrics acquisition. In just two years, they netted a far be
 
+- [Don’t Serve Burnt Pizza (And Other Lessons in Building Minimum Lovable Products)](https://review.firstround.com/dont-serve-burnt-pizza-and-other-lessons-in-building-minimum-lovable-products/)
+
+> **摘要:** Jiaona Zhang is currently the VP of Product at Webflow.
+If love is in the little things, then
+Jiaona “JZ” Zhang
+has a keen eye for the details that make users fall head over heels.
+From her first PM role at
+Pocket Gems
+, where she crafted mobile gaming features that kept players logging in for more, to her time at
+Dropbox
+, where her instinct for zooming in on user problems led to the creation of some of the company’s standout UI interactions, Zhang’s built an impressive career centered on spotting just the right touch that captivates and inspires users.
+She’s also brought her expertise to bear on pixels
+and
+physical spaces, at both
+Airbnb
+— where she served as the product lead for the
+Plus launch
+and Head of Product for the Homes Platform team — and now at
+WeWork
+, as Director of Product Management. (Zhang also somehow manages to carve out time to deploy her product savvy in other arenas, as an
+angel investor
+and as a
+lecturer at Stanford
+, where she teaches students embarking on the journey of early product-building.)
+Looking back at the through all these experiences, it’s clear that love is at the (ahem) heart of Zhang’s ethos on product design, the secret to her track record of launching products that users cherish. And if companies want to stay competitive, she argues, product folks need to be even more diligently attuned to a fledgling product’s lovability — not just viability. “The minimum viable product was appealing because it was cheap, and you could get it to marke
+
 - [The Founder Dating Playbook – Here’s the Process I Used to Find My Co-Founder](https://review.firstround.com/the-founder-dating-playbook-heres-the-process-i-used-to-find-my-co-founder/)
-
-> **摘要:** Loading the
-Elevenlabs Text to Speech
-AudioNative Player...
-Gloria Lin
-went on a lot of dates in 2019. No, not that kind. We’re talking about co-founder dating.
-As the first head of product at
-Flipboard
-and the first PM hire at
-Stripe
-, Lin’s seen founding teams in action — and knew what she was looking for as she set out to build a company of her own. “I always wanted to team up with someone. My experiences as a product leader were strongest when I was partnering closely with an engineering leader,” says Lin. “When I left to start a company, there were a few spaces I was interested in, but I didn’t have a specific startup idea so I set my sights on finding a strong co-founder to work with.”
-But she quickly found that was easier said than done. “Most of the co-founder stories I’d heard fell in this bucket of former co-workers pairing up to go after an idea. But it’s not that simple. You have to both want to do a startup — requiring similar levels of high-risk tolerance — and be available at the same time, which depends on life and financial circumstances. And once you step outside of that pool, it gets harder to meet someone,” says Lin. “I knew I didn’t want my search to be random or unfocused, so I honed my process and took my time.
-I ended up ‘dating’ six different potential co-founders over the course of a year
-. Just like real-life dating, sometimes it seemed like I was going to end up alone. Eventually, I met
-Joel Poloney
-and everything clicked. Now we’re working on
-Site
-
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
-- [‘Give Away Your Legos’ and Other Commandments for Scaling Startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups/)
 - [View all articles](https://review.firstround.com/articles/)
 - [Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like ConsumersNotes from an AI founder taking a swing at a hundred-billion-dollar incumbent.](https://review.firstround.com/servals-path-to-product-market-fit/)
 
@@ -318,6 +340,19 @@ Although it may feel counterintuitive to turn down investment
 - [NewsCircle Goes Public — Congratulations!](https://www.cnbc.com/2025/06/05/stablecoin-issuer-circle-soars-in-nyse-debut-after-pricing-ipo-above-expected-range.html)
 
 ### Kleiner Perkins
+- [Isomorphic Labs: Engineering Biology with AI](https://www.kleinerperkins.com/perspectives/isomorphic-labs-engineering-biology-with-ai/)
+
+> **摘要:** Perspectives
+Isomorphic Labs: Engineering Biology with AI
+November 17, 2026
+By
+Josh Coyne
+Mamoon Hamid
+Nadia Cochinwala
+Nearly fifty years ago, Kleiner Perkins backed Genentech on the bold idea that biology could be physically engineered. That idea started the biotech industry. We are investing in Isomorphic Labs because we believe the next era rests on an equally bold idea: that biology can be digitally engineered with AI. The need is not subtle. A new medicine still takes more than a decade and billions of dollars to reach patients, and over 90% of candidates fail. Drugs approved per research dollar have halved every nine years since 1950. We do not think this is a failure of effort. It is a failure of method. Biology is too complex to learn one experiment at a time, and the only instrument that can hold all of it is a model that learns from all of it.
+It is hard to imagine a better team for this. Demis Hassabis founded Isomorphic in 2021 to take AlphaFold, his Nobel-winning work, into medicine. Around him is a world class executive team spanning frontier AI, medicinal chemistry, and clinical development, with approved drugs to their names. What strikes us most is not the credentials but the posture: AI researchers and drug hunters who treat each other’s disciplines with humility, organized around a mission as simple as it is vast: to solve all disease.
+None of this was possible even five years ago. For the first time, a model can see biology at the level of atoms, predict 
+
 - [Etched: The Inference System for the AI Economy](https://www.kleinerperkins.com/perspectives/etched/)
 
 > **摘要:** Perspectives
@@ -342,25 +377,8 @@ For the last decade, the satellite industry chased affordability, and the consen
 Delivering on this vision meant conquering countless engineering challenges at once, including propulsion, with an electric thruster four times more powerful than anything that had ever flown; power, with giant deployable solar arrays and high-voltage systems that historically took decades and exquisite budgets to build; and radiation, hardening every circuit to survive the higher orbits where small satellites can’t operate. Satellites of this class demand extreme vertical integration, so K2 built nearly every subsystem in-house. This March, all of them flew together for the first time. K2 launched Gravitas, one of the largest and highest-power commercial satellites ever flown. Mission success. 
 
 - [CuspAI: A search engine for materials that don’t exist yet](https://www.kleinerperkins.com/perspectives/cuspai-a-search-engine-for-materials-that-dont-exist-yet/)
-
-> **摘要:** Perspectives
-CuspAI: A search engine for materials that don’t exist yet
-July 20, 2026
-By
-Josh Coyne
-Most big leaps in technology come down to a material. Polymers, steel, silicon. The next set – cheaper carbon capture, better batteries, faster chips, cleaner water – is stuck waiting on materials nobody has discovered yet. And the old way of finding them is painfully slow. Materials discovery has traditionally taken 10+ years of trial and error across a chemical space that is bigger than the number of grains of sand on Earth. It’s the ultimate needle in a haystack.
-That’s why we’re excited to co-lead
-CuspAI
-‘s
-Series B
-.
-CuspAI has built an AI system for materials discovery that operates much like a search engine. You describe the properties you need (strength, conductivity, etc) and its agents work backwards from there: searching a proprietary database, generating entirely new candidates that have never existed, then simulating both how they perform and whether they can actually be made. That last part is the hard part. Earlier AI approaches were good at proposing materials no lab could ever synthesize. CuspAI designs for what can be built, which is what turns a clever model into a real product.
-And it is already working in the field. For example, with the Finnish chemicals company Kemira, CuspAI went after materials that can remove PFAS from water, the “forever chemicals” now found in the blood of almost everyone alive. Out of a design space of roughly
-300 trillion possible 
-
 - [TerraFirma: Built for Earth, Bound for Mars](https://www.kleinerperkins.com/perspectives/terrafirma-built-for-earth-bound-for-mars/)
 - [Sail: The Inference Platform for Long-Horizon Agents](https://www.kleinerperkins.com/perspectives/sail-the-inference-platform-for-long-horizon-agents/)
-- [Mirendil: Building the system that builds systems](https://www.kleinerperkins.com/perspectives/mirendil-building-the-system-that-builds-systems/)
 - [Kleiner Perkins Fellows](https://www.kleinerperkins.com/fellows/)
 
 
