@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-11-20
+# VC & Research Daily Fetch — 2026-11-21
 
 ## RSS Feeds (全文)
 
@@ -264,24 +264,6 @@ Why old-school sales work still wins in the AI era | Graham Moreno (Head of GTM,
 Why founders should bet on first-time executives | Praveer Melwani (CFO, Figma)
 Why gre
 
-- [A Tactical Guide to Managing Up: 30 Tips from the Smartest People We Know](https://review.firstround.com/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know/)
-
-> **摘要:** Loading the
-Elevenlabs Text to Speech
-AudioNative Player...
-There’s an oft-repeated phrase: “People don’t quit a job, they quit a boss.” Certainly if you want to go the manager route, it’s critical to
-become a trusted captain
-in order to retain a top crew. But foisting all the blame onto bad bosses when these pairings go awry is also an oversimplification — one that takes agency away from the employee.
-Like any relationship, that of the manager and their report is a two-way street, and the task of navigating the often bumpy road along a startup’s course falls on both parties. There are those managers who you instantly click with, falling into an easy rhythm as though you’ve worked together for years. Others duos may seem like you’re trying to force two repelling magnets together. But more likely, your relationship with your boss falls somewhere in between these two extremes.
-Whether
-you’re taking on your first direct report
-or you’re a
-seasoned leader looking to sharpen your skills
-, there’s plenty of advice to go around when it comes to managers. But when the focus shifts to those who are being
-managed
-, many of those concrete tactics and strategies get decidedly less detailed. While it’s universally understood that building a good relationship with your manager takes work — even if you take to each other like a duck to water — the prescription for how to do so often fails to pack a punch.
-That’s in part because managing up is a rather amorphous category, encompassing everyt
-
 - [This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency](https://review.firstround.com/this-founder-built-startups-in-2008-2016-and-2018-heres-what-hes-learned-about-resiliency/)
 
 > **摘要:** On a rainy September day back in 2008,
@@ -304,10 +286,36 @@ Stitch
 , using technology they retained in the RJMetrics acquisition. In just two years, they netted a far be
 
 - [Don’t Serve Burnt Pizza (And Other Lessons in Building Minimum Lovable Products)](https://review.firstround.com/dont-serve-burnt-pizza-and-other-lessons-in-building-minimum-lovable-products/)
+
+> **摘要:** Jiaona Zhang is currently the VP of Product at Webflow.
+If love is in the little things, then
+Jiaona “JZ” Zhang
+has a keen eye for the details that make users fall head over heels.
+From her first PM role at
+Pocket Gems
+, where she crafted mobile gaming features that kept players logging in for more, to her time at
+Dropbox
+, where her instinct for zooming in on user problems led to the creation of some of the company’s standout UI interactions, Zhang’s built an impressive career centered on spotting just the right touch that captivates and inspires users.
+She’s also brought her expertise to bear on pixels
+and
+physical spaces, at both
+Airbnb
+— where she served as the product lead for the
+Plus launch
+and Head of Product for the Homes Platform team — and now at
+WeWork
+, as Director of Product Management. (Zhang also somehow manages to carve out time to deploy her product savvy in other arenas, as an
+angel investor
+and as a
+lecturer at Stanford
+, where she teaches students embarking on the journey of early product-building.)
+Looking back at the through all these experiences, it’s clear that love is at the (ahem) heart of Zhang’s ethos on product design, the secret to her track record of launching products that users cherish. And if companies want to stay competitive, she argues, product folks need to be even more diligently attuned to a fledgling product’s lovability — not just viability. “The minimum viable product was appealing because it was cheap, and you could get it to marke
+
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
+- [‘Give Away Your Legos’ and Other Commandments for Scaling Startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups/)
 - [View all articles](https://review.firstround.com/articles/)
-- [Serval's Path to Product-Market Fit — Win Enterprise Buyers by Treating Them Like ConsumersNotes from an AI founder taking a swing at a hundred-billion-dollar incumbent.](https://review.firstround.com/servals-path-to-product-market-fit/)
+- [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers/)
 
 ### Lightspeed
 _无法获取或无内容_
