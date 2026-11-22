@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-11-21
+# VC & Research Daily Fetch — 2026-11-22
 
 ## RSS Feeds (全文)
 
@@ -285,37 +285,40 @@ That’s a mistake Moore vowed not to make again. Equipped with a sharper vision
 Stitch
 , using technology they retained in the RJMetrics acquisition. In just two years, they netted a far be
 
-- [Don’t Serve Burnt Pizza (And Other Lessons in Building Minimum Lovable Products)](https://review.firstround.com/dont-serve-burnt-pizza-and-other-lessons-in-building-minimum-lovable-products/)
-
-> **摘要:** Jiaona Zhang is currently the VP of Product at Webflow.
-If love is in the little things, then
-Jiaona “JZ” Zhang
-has a keen eye for the details that make users fall head over heels.
-From her first PM role at
-Pocket Gems
-, where she crafted mobile gaming features that kept players logging in for more, to her time at
-Dropbox
-, where her instinct for zooming in on user problems led to the creation of some of the company’s standout UI interactions, Zhang’s built an impressive career centered on spotting just the right touch that captivates and inspires users.
-She’s also brought her expertise to bear on pixels
-and
-physical spaces, at both
-Airbnb
-— where she served as the product lead for the
-Plus launch
-and Head of Product for the Homes Platform team — and now at
-WeWork
-, as Director of Product Management. (Zhang also somehow manages to carve out time to deploy her product savvy in other arenas, as an
-angel investor
-and as a
-lecturer at Stanford
-, where she teaches students embarking on the journey of early product-building.)
-Looking back at the through all these experiences, it’s clear that love is at the (ahem) heart of Zhang’s ethos on product design, the secret to her track record of launching products that users cherish. And if companies want to stay competitive, she argues, product folks need to be even more diligently attuned to a fledgling product’s lovability — not just viability. “The minimum viable product was appealing because it was cheap, and you could get it to marke
-
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
+
+> **摘要:** Loading the
+Elevenlabs Text to Speech
+AudioNative Player...
+This article is by
+Rahul Vohra
+, the founder and CEO of
+Superhuman
+— a startup building the fastest email experience in the world.
+We’ve all heard that product-market fit drives startup success — and that the lack thereof is what’s lurking behind almost every failure.
+For founders, achieving product-market fit is an obsession from day one. It’s both the hefty hurdle we’re racing to clear and the festering fear keeping us up at night, worried that we’ll never make it. But when it comes to understanding what product-market fit
+really
+is and
+how
+to get there, most of us quickly realize that there isn’t a battle-tested approach.
+In the summer of 2017, I was waist-deep in my search for a way to find product-market fit for my startup,
+Superhuman
+. Turning to the classic blog posts and seminal thought pieces, a few observations stuck out to me. Y Combinator founder Paul Graham described product-market fit as when you’ve
+made something that people want
+, while Sam Altman
+characterized
+it as when users spontaneously tell other people to use your product. But of course, the most cited description comes from this passage in Marc Andreessen’s 2007
+blog post
+:
+“You can always feel when product-market fit is
+not
+happening. The customers aren't quite getting value out of the product, word of mouth isn't spreading, usage isn't growing that fast, press reviews are kind of ‘blah,’ the sales cycle takes too long, and lots of deals neve
+
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 - [‘Give Away Your Legos’ and Other Commandments for Scaling Startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups/)
 - [View all articles](https://review.firstround.com/articles/)
 - [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers/)
+- [Speed as a Habit](https://review.firstround.com/speed-as-a-habit/)
 
 ### Lightspeed
 _无法获取或无内容_
