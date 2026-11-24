@@ -1,9 +1,13 @@
-# VC & Research Daily Fetch — 2026-11-23
+# VC & Research Daily Fetch — 2026-11-24
 
 ## RSS Feeds (全文)
 
 ### Sequoia Capital
-_今日无新文章_
+
+**Partnering with Isomorphic Labs: Drug Discovery Is an AI Problem**
+- Link: https://www.sequoiacap.com/article/partnering-with-isomorphic-labs-drug-discovery-is-an-ai-problem
+- Date: Mon, 23 Nov 2026 00:00:00 -0000
+- Author: Konstantine Buhler and Liam Corrigan
 
 ### Elad Gil
 _今日无新文章_
