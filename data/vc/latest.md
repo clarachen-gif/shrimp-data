@@ -1,4 +1,4 @@
-# VC & Research Daily Fetch — 2026-11-24
+# VC & Research Daily Fetch — 2026-11-25
 
 ## RSS Feeds (全文)
 
@@ -268,26 +268,25 @@ Why old-school sales work still wins in the AI era | Graham Moreno (Head of GTM,
 Why founders should bet on first-time executives | Praveer Melwani (CFO, Figma)
 Why gre
 
-- [This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency](https://review.firstround.com/this-founder-built-startups-in-2008-2016-and-2018-heres-what-hes-learned-about-resiliency/)
+- [Finding Language-Market Fit: How to Make Customers Feel Like You’ve Read Their Minds](https://review.firstround.com/finding-language-market-fit-how-to-make-customers-feel-like-youve-read-their-minds/)
 
-> **摘要:** On a rainy September day back in 2008,
-Bob Moore
-took the plunge. He and his coworker
-Jake Stein
-quit their day jobs to start
-RJMetrics
-, a new company in the data analytics space. While their prospects seemed bright, their timing could have been better — three days later, Lehman Brothers collapsed.
-Their startup set out on a journey with just about everything working against it: inexperienced first-time founders, a crushing economic environment and a big bet on where the industry was heading. The path was twisty and full of challenges, but by 2016 the duo had amassed hundreds of customers and RJMetrics was scooped up by
-Magento
+> **摘要:** Loading the
+Elevenlabs Text to Speech
+AudioNative Player...
+This article is written by
+Matt Lerner
+, co-founder and CEO at
+Startup Core Strengths
+, a company that helps Seed and Series A startups accelerate growth with a metrics-driven process of rapid experimentation. Previously, he was an investor at 500 Startups and ran B2B growth teams at PayPal. For more of his insights on growing a startup,
+check out his newsletter
 .
-“But as exits go, it was more of a base hit than a home run,” says Moore. “The most valuable thing we took away from RJMetrics was the muscle of how to fight hard and the painful lessons that came from surviving a turbulent environment — only to later lose the long game. Take our old competitor
-Looker, which got acquired by Google
-last summer for $2.6 billion. They ate our lunch, even though we had a four-year head start.” (For more of the nitty-gritty details on where things went south in their battle against Looker, check out Moore’s
-excellent post-mortem post
-from a few months back.)
-That’s a mistake Moore vowed not to make again. Equipped with a sharper vision and nearly a decade of experience, he and Stein spun off their second company,
-Stitch
-, using technology they retained in the RJMetrics acquisition. In just two years, they netted a far be
+Here’s a quick test: Which one of these headlines converted 10X better?
+Option B converted visitors to signups 10X better (30%) than the first version (3%). Dozens of times now in my career as an operator, investor and advisor, I’ve seen changes in a handful of words yield jaw-dropping differences in conversion. Here are a few more examples:
+What’s going on here isn’t magic, nor is it “just marketing tactics.” It’s language-market fit at work — when you find the exact right words to explain your product or service to prospective customers, words that resonate with goals and struggles that are already in their brains. When you talk about your product, a lightbulb in their heads switches on that says, “That is EXACTLY what I’m looking for” —  they feel like you’ve read their minds.
+If you like Matt Lerner's advice, consider taking his Build your Startup Growth Machine course on Maven
+Learn More
+I myself didn’t realize until I jumped the wall from operator to VC and saw hundreds of early-stage companies, but now it’s clear as day:
+language-market fit is the mo
 
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 
